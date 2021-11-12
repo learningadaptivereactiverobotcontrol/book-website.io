@@ -1,0 +1,63 @@
+# Site settings
+name: ICRA-2019 tutorial on dynamical systems based learning from demonstration
+email: sina.mirrazavi@epfl.ch
+author: Seyed Sina Mirrazavi Salehian       
+
+keywords: ICRA, Tutorial, 2019, learning from demonstration,  dynamical systems
+description: This website provides the basic information regarding the ICRA-2019 tutorial on dynamical systems based learning from demonstration.
+
+# Only use this if you are serving your site via Github Pages
+github:
+ url: "https://epfl-lasa.github.io/TutorialICRA2019.io"
+ #url: "http://localhost:4000/"
+
+header: yes
+# header_sm: images/Header.png
+# header_med: images/Header.png
+# header_large: images/Header.png
+# header_xl: images/Header.png
+header_sm: images/headergifs.gif
+header_med: images/headergifs.gif
+header_large: images/headergifs.gif
+header_xl: images/headergifs.gif
+
+
+# Exclude our ruby stuff
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
+
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+destination: _site
+
+gems:
+  - jekyll-feed
+
+feed:
+  path: atom.xml
+  
+# Compress our Css
+#sass:
+#    style: :compressed
+
+permalink: /blog/:year/:title
+
+#### SEO Stuff
+# Google Analytics
+google_universal_analytics: 
+google_universal_analytics_cookiedomain: auto
+
+# Facebook Opengraph
+facebook_user:
+facebook_app_id:                      #enter your App ID
+facebook_locale: en_US
+facebook_page:                        #the URL of your Facebook Page
+facebook_image:                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+
+# Twitter Cards
+twitter_user: 
+twitter_card: false
+twitter_image:                        #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.

@@ -1,0 +1,41 @@
+- title: "home"
+  external: "https://epfl-lasa.github.io/TutorialICRA2019.io/"
+
+- title: "Program"
+  href: "/documentation/Overview.html"
+
+- title: "documentation"
+  subcategories:
+    - subtitle: "Introduction"
+      subhref: "/documentation/Introduction.html"
+    - subtitle: "Lecture 1: Learning DS"
+      subhref: "/documentation/Learning.html"
+    - subtitle: "Lecture 2a: Obstacle"
+      subhref: "/documentation/Modulation_obs.html"
+    - subtitle: "Lecture 2b: Contact"
+      subhref: "/documentation/Modulation_tran.html"
+    - subtitle: "Lecture 3: Impedance Control"
+      subhref: "/documentation/Impedance.html"
+    - subtitle: "Lecture 4: Locally Active Globally Stable Dynamical Systems"
+      subhref: "/documentation/LAGS.html"
+
+- title: "Exercises"
+  href: "/documentation/setup.html"
+
+- title: "Demos"
+  href: "/documentation/demos.html"
+      
+- title: "About us"
+  href: "/documentation/about.html"
+  
+  
+      
+#- title: "external"
+#  external: "http://www.jekyllrb.com"
+  
+#- title: "Misc"
+#  external-subcategories:
+#    - subtitle: "Jekyll forums"
+#      subhref: "https://talk.jekyllrb.com/"
+#    - subtitle: "Source Code"
+ #     subhref: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"

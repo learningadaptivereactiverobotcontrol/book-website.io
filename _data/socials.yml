@@ -1,0 +1,21 @@
+- title: "rss2"
+  href: "https://epfl-lasa.github.io/TutorialICRA2019.io/atom.xml"
+  
+- title: "mail"  
+  href: "mailto:nadia.figueroafernandez@epfl.ch"
+
+- title: "home"  
+  href: "http://lasa.epfl.ch/"
+
+
+#- title: "facebook"
+#  href: "#"
+  
+#- title: "tumblr"
+#  href: "#"
+  
+#  href: "https://twitter.com/"
+
+- title: "github"
+  href: "https://github.com/epfl-lasa/icra2019-lfd-tutorial"
+
