@@ -14,7 +14,7 @@ header_xl: images/headergifs.gif
 <h1>Exercise Session 2 - Modulation of dynamical systems: Non-contact/contact transitions</h1>
 <p>The core idea of having this package is to provide a simple and flexible tool for the curious readers to assess the performance of DS based contact controller which was proposed in</p>
 <p><a href="https://infoscience.epfl.ch/record/255068/files/RAL.pdf" rel="nofollow"><span style="color: #3366ff;">Mirrazavi Salehian, S. S. and Billard, A. (2018) A Dynamical System Based Approach for Controlling Robotic Manipulators During Non-contact/Contact Transitions. IEEE Robotics and Automation Letters (RA-L).</span></a></p>
-<p>in different scenarios. You can find the corresponding slides in <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://epfl-lasa.github.io/TutorialRSS2018.io/documentation/Modulation_tran.html" rel="nofollow">Here</a></span>.</p>
+<p>in different scenarios. You can find the corresponding slides in <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://learningadaptivereactiverobotcontrol.github.io/TutorialRSS2018.io/documentation/Modulation_tran.html" rel="nofollow">Here</a></span>.</p>
 <h2>Installation Instructions</h2>
 <p>This package contains a set of submodules. In order to clone the package, just run the following run:</p>
 ```

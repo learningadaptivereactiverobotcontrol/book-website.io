@@ -1,6 +1,6 @@
 # Site settings
 name: ICRA-2019 tutorial on dynamical systems based learning from demonstration
-email: sina.mirrazavi@epfl.ch
+email: sina.mirrazavi@gmail.com
 author: Seyed Sina Mirrazavi Salehian       
 
 keywords: ICRA, Tutorial, 2019, learning from demonstration,  dynamical systems
@@ -8,7 +8,7 @@ description: This website provides the basic information regarding the ICRA-2019
 
 # Only use this if you are serving your site via Github Pages
 github:
- url: "https://epfl-lasa.github.io/TutorialICRA2019.io"
+ url: "https://learningadaptivereactiverobotcontrol.github.io/LearningAdaptiveReactiveRobotControl.io"
  #url: "http://localhost:4000/"
 
 header: yes
