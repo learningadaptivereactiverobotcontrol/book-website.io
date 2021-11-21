@@ -3,6 +3,7 @@ if ENV['CODECLIMATE']
   SimpleCov.start
 end
 
+require 'ice_age'
 require 'image_optim/pack'
 require 'image_optim/path'
 

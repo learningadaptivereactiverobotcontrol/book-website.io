@@ -4,17 +4,11 @@ require 'image_optim/cmd'
 require 'image_optim/path'
 
 describe ImageOptim::BinResolver do
-  def stub_env(key, value)
-    allow(ENV).to receive(:[]).with(key).and_return(value)
-  end
-
   before do
     stub_const('BinResolver', ImageOptim::BinResolver)
     stub_const('Bin', BinResolver::Bin)
     stub_const('SimpleVersion', BinResolver::SimpleVersion)
     stub_const('Cmd', ImageOptim::Cmd)
-
-    allow(ENV).to receive(:[]).and_call_original
   end
 
   let(:image_optim){ double(:image_optim, :verbose => false, :pack => false) }
@@ -27,8 +21,8 @@ describe ImageOptim::BinResolver do
 
     context 'when PATHEXT is not set' do
       it 'finds binary without ext in combined path' do
-        stub_env 'PATH', %w[/a /b /c /d].join(File::PATH_SEPARATOR)
-        stub_env 'PATHEXT', nil
+        ENV['PATH'] = %w[/a /b /c /d].join(File::PATH_SEPARATOR)
+        ENV['PATHEXT'] = nil
 
         [
           [:file?,        '/a/abc', false],
@@ -48,8 +42,8 @@ describe ImageOptim::BinResolver do
 
     context 'when PATHEXT is set' do
       it 'finds binary with ext in combined path' do
-        stub_env 'PATH', %w[/a /b].join(File::PATH_SEPARATOR)
-        stub_env 'PATHEXT', '.com;.bat'
+        ENV['PATH'] = %w[/a /b].join(File::PATH_SEPARATOR)
+        ENV['PATHEXT'] = '.com;.bat'
 
         [
           [:file?,        '/a/abc.com', false],
@@ -68,7 +62,7 @@ describe ImageOptim::BinResolver do
     end
 
     it 'returns nil on failure' do
-      stub_env 'PATH', ''
+      ENV['PATH'] = ''
       expect(full_path('image_optim')).to be_nil
     end
   end
@@ -91,7 +85,7 @@ describe ImageOptim::BinResolver do
   end
 
   it 'resolves bin in path and returns instance of Bin' do
-    stub_env 'LS_BIN', nil
+    ENV['LS_BIN'] = nil
     expect(FSPath).not_to receive(:temp_dir)
     expect(resolver).to receive(:full_path).with(:ls).and_return('/bin/ls')
     bin = double
@@ -109,7 +103,7 @@ describe ImageOptim::BinResolver do
   end
 
   it 'raises on failure to resolve bin' do
-    stub_env 'LS_BIN', nil
+    ENV['LS_BIN'] = nil
     expect(FSPath).not_to receive(:temp_dir)
     expect(resolver).to receive(:full_path).with(:ls).and_return(nil)
     expect(Bin).not_to receive(:new)
@@ -127,7 +121,7 @@ describe ImageOptim::BinResolver do
 
   it 'resolves bin specified in ENV' do
     path = 'bin/the_optimizer'
-    stub_env 'THE_OPTIMIZER_BIN', path
+    ENV['THE_OPTIMIZER_BIN'] = path
     tmpdir = double(:tmpdir, :to_str => 'tmpdir')
     symlink = double(:symlink)
 
@@ -175,7 +169,7 @@ describe ImageOptim::BinResolver do
     let(:executable?){ true }
 
     before do
-      stub_env 'THE_OPTIMIZER_BIN', path
+      ENV['THE_OPTIMIZER_BIN'] = path
       expect(FSPath).not_to receive(:temp_dir)
       expect(resolver).not_to receive(:at_exit)
       allow(File).to receive_messages(:exist? => exist?,
@@ -218,7 +212,7 @@ describe ImageOptim::BinResolver do
   end
 
   it 'resolves bin only once, but checks every time' do
-    stub_env 'LS_BIN', nil
+    ENV['LS_BIN'] = nil
     expect(resolver).to receive(:full_path).once.with(:ls) do
       sleep 0.1
       '/bin/ls'
@@ -246,7 +240,7 @@ describe ImageOptim::BinResolver do
     end
 
     it 'raises every time if did not get bin version' do
-      stub_env 'PNGCRUSH_BIN', nil
+      ENV['PNGCRUSH_BIN'] = nil
       bin = Bin.new(:pngcrush, '/bin/pngcrush')
 
       expect(Bin).to receive(:new).and_return(bin)
@@ -260,7 +254,7 @@ describe ImageOptim::BinResolver do
     end
 
     it 'raises every time on detection of misbehaving version' do
-      stub_env 'PNGCRUSH_BIN', nil
+      ENV['PNGCRUSH_BIN'] = nil
       bin = Bin.new(:pngcrush, '/bin/pngcrush')
 
       expect(Bin).to receive(:new).and_return(bin)
@@ -274,7 +268,7 @@ describe ImageOptim::BinResolver do
     end
 
     it 'warns once on detection of problematic version' do
-      stub_env 'ADVPNG_BIN', nil
+      ENV['ADVPNG_BIN'] = nil
       bin = Bin.new(:advpng, '/bin/advpng')
 
       expect(Bin).to receive(:new).and_return(bin)
