@@ -28,6 +28,7 @@ EOF
 
   s.add_development_dependency 'image_optim_pack', '~> 0.2', '>= 0.2.2'
   s.add_development_dependency 'rspec', '~> 3.0'
+  s.add_development_dependency 'ice_age', '>= 0.2'
   if RUBY_VERSION >= '2.1'
     s.add_development_dependency 'rubocop', '~> 0.52'
   end
