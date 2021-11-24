@@ -8,7 +8,7 @@ description: This website provides the basic information regarding the ICRA-2019
 
 # Only use this if you are serving your site via Github Pages
 github:
- url: "https://learningadaptivereactiverobotcontrol.github.io/LearningAdaptiveReactiveRobotControl.io"
+ url: "https://ds-book.github.io/learning-adaptive-reactive-robot-control.io"
  #url: "http://localhost:4000/"
 
 header: yes
