@@ -25,77 +25,27 @@ Demonstration</p>
 <br>  
 </div>   
 <p style="text-align: justify;font-size:90%">
-If you are interested in attending this tutorial please register at the following link: <a href="https://forms.gle/QVwpZ4KebR5RA3DF7"> <font color="red">(registration form)</font></a>  
-No personal information is required. We solely seek to have an estimate of the number of attendees. </p>
 <br>     -->
 
-<p style="text-align: center;font-size:125%">&nbsp;&nbsp;&nbsp; <strong> Slides/Code</strong></p>
-<div style="line-height: 50%">    
-<br>    
-</div>
-<ul>
-  <li style="font-size:90%;color:rgb(69,69,69)"> &bull; Click <a href="https://www.dropbox.com/sh/ph24oa6hwx002mv/AAAUkAM9mCtImNUqr260VhhHa?dl=0"> <font color="red"> here </font> </a> to download a pdf or read-only version of the ppt presentation from dropbox or go to the  <font color="red">Documentation</font></a> page of each Lecture.</li>
-  <li style="font-size:90%;color:rgb(69,69,69)"> &bull;Click <a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises"> <font color="red">here </font> </a> to go to MATLAB exercises github repository..</li>
-</ul> 
 
 
 <p style="text-align: center;font-size:125%">&nbsp;&nbsp;&nbsp; <strong> Abstract</strong></p>
 <div style="line-height: 30%">    
 <br>    
 </div> 
-<p style="text-align: justify;font-size:90%">The use of Dynamical Systems (DS) for motion planning problems in robotics has become popular thanks to their ability to generate on-line motion plans inherently robust to changes in dynamic environments. In recent years, we have focused on formulating DS to model robotic tasks that can be learned from demonstrations (LfD). We've used our DS-based learning techniques in a plethora of robotic applications, from executing simple point-to-point motions, such as pick-and-place and imitating motion patterns to more dynamic scenarios, such as generating golf swings, obstacle avoidance and even catching objects in flight. These techniques have been further extended to learn more complex tasks of repetitive nature, from sequential point-to-point motions to peeling vegetables, rolling pizza dough and wiping car-parts.</p>
+<p style="text-align: justify;font-size:90%">
+	This book presents a wealth of machine learning techniques to make the control of robots more flexible and safe when interacting with humans. It introduces a set of control laws that enable reactivity using dynamical systems, a widely used method for solving motion-planning problems in robotics. These control approaches can re-plan in milliseconds to adapt to new environmental constraints and offer safe and compliant control of forces in contact. The techniques offer theoretical advantages, including convergence to a goal, non-penetration of obstacles, and passivity. The coverage of learning begins with low-level control parameters and progresses to higher-level competencies composed of combinations of skills.
 <!-- <div style="line-height: 50%">    
 <br>    
 </div>
-<p style="text-align: justify;font-size:90%">In this tutorial, we will introduce techniques used to learn Dynamical Systems from human demonstrations. Further, we will introduce approaches to modify a learned behavior locally, with particular focus on obstacle avoidance and non-contact/contact transitions. Finally, we will present approaches in which DS are used for impedance control and force generation in contact tasks. Attendees will be able to practice and test the presented techniques through computer-based simulations in MATLAB.</p> -->
-
-<br>
-<p style="text-align: center;font-size:125%">&nbsp;&nbsp;&nbsp; <strong> Content</strong></p>
-<div style="line-height: 30%">    
-<br>    
-</div> 
 <p style="text-align: justify;font-size:90%">
-In this tutorial, we seek to introduce the attendees to the state-of-the-art of DS-based learning from demonstration from both a theoretical and practical point-of-view. It will be composed of 3 lecture-like presentations followed by practical sessions in MATLAB/Python (to be done on attendee’s
-laptops). 
-</p>
-<div style="line-height: 50%">    
-<br>    
-</div>
-<ul>
-  <li style="font-size:90%;color:rgb(69,69,69)"> &bull; The first lecture focuses on showcasing different learning approaches proposed by the LASA lab, while highlighting their advantages and drawbacks and comparing them to other approaches.</li>
-  <li style="font-size:90%;color:rgb(69,69,69)"> &bull;The second lecture, will showcase techniques to locally modulate a previously-learned DS for tasks such as i) obstacle avoidance and ii) transitioning between contact with a surface.</li>
-  <li style="font-size:90%;color:rgb(69,69,69)"> &bull;The final lecture focuses on the use of DS for impedance control and force generation. We will present a DS-based impedance controller that provides passive interaction while generating motion in a time-invariant manner. We will then present a technique to learn DS that can encode different stiffness characterizations throughout the motion plan. Finally, we will present an approach that is capable of generating both motion and force during contact tasks.</li>
-</ul> 
-<div style="line-height: 50%">    
-<br>    
-</div>    
-<p style="text-align: justify;font-size:90%">   
-Students will be able to practice these techniques through computer-based simulations. The tutorial will end with a look-out on open research questions in the field. We provide a detailed description of the program under the <a href="https://learningadaptivereactiverobotcontrol.github.io/LearningAdaptiveReactiveRobotControl.io/documentation/Overview.html"> <font color="red"> Program </font></a> tab.</p>
+	The book is meant to be used as Textbook for graduate-level courses in robotics, and, hence, the chapters proceed from fundamentals to more advanced content. The first section presents an overview of the techniques introduced, including learning from demonstration, optimization, and reinforcement learning. Subsequent sections present the core techniques for learning control laws with dynamical systems, trajectory planning with dynamical systems, and methods for compliant and force control using dynamical systems.
 
-<br>    
-<p style="text-align: center;font-size:125%">&nbsp;&nbsp;&nbsp; <strong> Instructions for participants</strong></p>
-<div style="line-height: 30%">    
-<br>    
-</div> 
-<p style="text-align: justify;font-size:90%">The tutorial has several Matlab exercises that will highlight some of the concepts presented in the tutorial. These exercises should be done on your own laptop. The code for the exercises is available in a Github repository. Follow the link below and clone the repository onto your computer. Make sure that you have a stand-alone license for Matlab. </p>
-<div style="line-height: 50%">    
-<br>    
-</div> 
-<p style="text-align: center;;font-size:90%"> Click <a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises"> <font color="red">here </font> </a> to go to MATLAB exercises github repository.</p>
+Each chapter describes applications, which range from arm manipulators to whole-body control of humanoid robots, and offers both pencil-and-paper and programming exercises.
 
-<br>    
-<br>    
-<p style="text-align: center;font-size:125%">&nbsp;&nbsp;&nbsp; <strong> Support from IEEE RAS Technical Committees</strong></p>
-<div style="line-height: 30%">    
-<br>    
-</div> 
-<p style="text-align: center;font-size:90%"> This tutorial has received support from the following IEEE RAS technical committees: </p>
-<div style="line-height: 50%">    
-<br>    
-</div> 
-<p style="text-align: center;font-size:90%"> Technical Committee for <a href="https://www.ieee-ras.org/robot-learning"> <font color="red"> Robot Learning</font></a></p>
-<p style="text-align: center;font-size:90%"> Technical Committee for <a href="https://www.ieee-ras.org/cognitive-robotics"> <font color="red"> Cognitive Robotics</font></a>
-</p>
+Lecture videos, slides, handwritten and programming exercises instructions and MATLAB code for the exercises are available in the table below. 
+</p> -->
+
 
 <br>    
 <p style="text-align: center;font-size:125%">&nbsp;&nbsp;&nbsp; <strong> Funding</strong></p>
@@ -103,16 +53,17 @@ Students will be able to practice these techniques through computer-based simula
 <br>    
 </div> 
 <p style="text-align: justify;font-size:85%"> 
-This tutorial has received funding from the European Community's Horizon 2020 robotics program ICT-23-2014, grant agreement 644727 - <a href="https://www.cogimon.eu/"> <font color="red">CogIMon</font></a>. The content of this site is the sole responsibility of the authors. The European Commission or its services cannot be held responsible for any use that may be made of the information it contains. 
+This work has received funding from the European Community through the ERC program. The content of this site is the sole responsibility of the authors. 
+	The European Commission or its services cannot be held responsible for any use that may be made of the information it contains. 
 </p>
 <br>    
 <center>
-	<img src="images/EU-flag.gif" alt="EU flag" width="10%"> <img src="images/cogimon.jpg" alt="cogimon banner" width="30%"> 
+	<img src="images/EU-flag.gif" alt="EU flag" width="10%"> 
 </center>
 <br>    
 
 <p style="text-align: center;font-size:85%"> 
-For any questions or queries contact <a href="https://nbfigueroa.github.io/"> <font color="red">Nadia Figueroa</font>.</a>
+For any questions or queries contact <a href="https://lasa.epfl.ch/"> <font color="red">Aude Billard</font>.</a>
 </p>
 
 </article>
