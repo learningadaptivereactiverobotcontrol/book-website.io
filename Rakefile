@@ -1,4 +1,4 @@
-##############
+#############
 #   Build    #
 ##############
 
@@ -19,7 +19,18 @@ end
 
 desc "Watch the site and regenerate when it changes"
 task :watch do
-  system "JEKYLL_ENV=development bundle exec jekyll serve --config '_config.yml,_config_localhost.yml' --watch"
+  system "JEKYLL_ENV=development bundle exec jekyll serve --config '_config.yml,_config_localhost.yml' --watch --port 9876 --host 0.0.0.0"
+end
+
+##############
+#   Clear    #
+##############
+
+# Used for clearing jekyll cache 
+
+desc "Clear the Jekyll build cache"
+task :clear_cache do
+  system "bundle exec jekyll clean"
 end
 
 ##############
