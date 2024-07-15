@@ -12,108 +12,151 @@ header_large: images/headergifs.gif
 header_xl: images/headergifs.gif
 --- 	
 
+<style>
+/* Adjust the table column widths */
+.table100 th, .table100 td {
+    padding: 10px; /* Adjust the padding for better spacing */
+    text-align: left; /* Align text to the left for better readability */
+}
+
+/* Set specific widths for the columns */
+.column1 {
+    width: 5%; /* Adjust width as needed */
+}
+.column2 {
+    width: 35%; /* Adjust width as needed */
+}
+.column3 {
+    width: 10%; /* Adjust width as needed */
+}
+.column4 {
+    width: 20%; /* Adjust width as needed */
+}
+.column5 {
+    width: 15%; /* Adjust width as needed */
+}
+.column6 {
+    width: 10%; /* Adjust width as needed */
+}
+/* Ensure table takes full width but columns are constrained */
+.table100 {
+    width: 100%;
+    table-layout: fixed; /* Make sure the table respects the column widths */
+}
+</style>
+
+
 <div class="limiter">
 <div class="wrap-table100">
 <div class="table100 ver3 m-b-110">
 <table data-vertable="ver3">
 <thead>
 <tr class="row100 head">
-<th class="column100 column1" data-column="column1">Timeline</th>
-<th class="column100 column1" data-column="column2">Topic</th>
-<th class="column100 column3" data-column="column3">Speaker</th>
-<th class="column100 column4" data-column="column4">Your laptop is needed?</th>
+<th class="column100 column1" data-column="column1">Week</th>
+<th class="column100 column2" data-column="column2">Topic</th>
+<th class="column100 column3" data-column="column3">Book Chapter</th>
+<th class="column100 column4" data-column="column4">Slides</th>
+<th class="column100 column5" data-column="column5">Lecture Videos</th>
+<th class="column100 column6" data-column="column6">Exercises - Code & Instructions</th>
 </tr>
 </thead>
 <tbody>
 <tr class="row100">
-<td class="column100 column1" data-column="column1">8:30-8:45</td>
+<td class="column100 column1" data-column="column1">1</td>
 <!-- <td class="column100 column2" data-column="column2"> <a href="Introduction.html">Introduction</a> </td> -->
-<td class="column100 column2" data-column="column2"> Introduction </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column2" data-column="column2"> Introduction to robot path planning </td>
+<td class="column100 column3" data-column="column3"> Ch. 1 </td>
+<td class="column100 column4" data-column="column4"> Introduction </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">8:45-9:15</td>
+<td class="column100 column1" data-column="column1">2</td>
 <!-- <td class="column100 column2" data-column="column2">  <a href="Learning.html">Learning DS from Demonstrations</a> </td> -->
-<td class="column100 column2" data-column="column2"> Learning DS from Demonstrations. </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column2" data-column="column2"> Acquiring data for learning </td>
+<td class="column100 column3" data-column="column3"> Ch. 2 </td>
+<td class="column100 column4" data-column="column4"> LfD </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">9:15-9:35</td>
-<td class="column100 column2" data-column="column2"> <a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises/tree/master/exercise1_learning">Matlab Exercise - Learning </a>   </td>
-<td class="column100 column3" data-column="column3">Everybody</td>
-<td class="column100 column4" data-column="column4">Yes</td>
+<td class="column100 column1" data-column="column1">3</td>
+<td class="column100 column2" data-column="column2">Introduction to Dynamical Systems (DS) </td>
+<td class="column100 column3" data-column="column3"> App. A</td>
+<td class="column100 column4" data-column="column4"> DS </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">9:35-10:00</td>
+<td class="column100 column1" data-column="column1">4</td>
 <!-- <td class="column100 column2" data-column="column2"><a href="Modulation_obs.html">  Modulation of dynamical systems: Locally refinement and Obstacle avoidance</a></td> -->
-<td class="column100 column2" data-column="column2">  Modulation of dynamical systems: Locally refinement and Obstacle avoidance </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column2" data-column="column2"> Learning Control laws with DS</td>
+<td class="column100 column3" data-column="column3"> Ch. 3 </td>
+<td class="column100 column4" data-column="column4"> ML SEDS LPVDS </td>
 </tr>
 
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">10:00-10:30</td>
-<td class="column100 column2" data-column="column2">Coffee Break</td>
+<td class="column100 column1" data-column="column1">5</td>
+<td class="column100 column2" data-column="column2">Matlab Practice Session I	</td>
 <td class="column100 column3" data-column="column3"></td>
 <td class="column100 column4" data-column="column4"></td>
 </tr>
 
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">10:30-10:45</td>
-<td class="column100 column2" data-column="column2"> <a href="https://mybinder.org/v2/gh/hubernikus/dynamic_obstacle_avoidance_python/master?filepath=notebook"> Online Exercises - Obstacle Avoidance</a> </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column1" data-column="column1">6</td>
+<td class="column100 column2" data-column="column2"> Learning how to Modulate a Dynamical Systems </td>
+<td class="column100 column3" data-column="column3"> CH. 8 </td>
+<td class="column100 column4" data-column="column4"> Modulation </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">10:45-11:05</td>
-<td class="column100 column2" data-column="column2">Modulation of dynamical systems: Non-contact/contact transitions </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column1" data-column="column1">7</td>
+<td class="column100 column2" data-column="column2"> Obstacle avoidance with Dynamical Systems</td>
+<td class="column100 column3" data-column="column3"> Ch. 9 </td>
+<td class="column100 column4" data-column="column4"> Obstacle </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">11:05-11:15</td>
-<td class="column100 column2" data-column="column2"> <a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises/tree/master/exercise3_contact">Matlab Exercise - Contact </a>   </td>
-<td class="column100 column3" data-column="column3">Everybody</td>
-<td class="column100 column4" data-column="column4">Yes</td>
+<td class="column100 column1" data-column="column1">8</td>
+<td class="column100 column2" data-column="column2"> Matlab Practice session II	 </td>
+<td class="column100 column3" data-column="column3"></td>
+<td class="column100 column4" data-column="column4"></td>
 </tr>
 
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">11:15-11:25</td>
+<td class="column100 column1" data-column="column1">9</td>
 <!-- <td class="column100 column2" data-column="column2"><a href="Impedance.html"> Impedance/Hybrid Force Control with DS</a>  </td> -->
-<td class="column100 column2" data-column="column2">  Passive-DS Impedance Control  </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column2" data-column="column2"> Impedance control with Dynamical Systems </td>
+<td class="column100 column3" data-column="column3"> Ch. 10 </td>
+<td class="column100 column4" data-column="column4"> Impedance </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">11:25-11:40</td>
-<td class="column100 column2" data-column="column2">  Force Generation with DS  </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column1" data-column="column1">10</td>
+<td class="column100 column2" data-column="column2"> Force control with Dynamical Systems </td>
+<td class="column100 column3" data-column="column3"> Ch. 11 </td>
+<td class="column100 column4" data-column="column4"> Passive DS </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">11:40-11:50</td>
-<td class="column100 column2" data-column="column2"> <a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises/tree/master/exercise4_force">Matlab Exercise - Force and Motion on Surface</a>   </td>
-<td class="column100 column3" data-column="column3">Everybody</td>
-<td class="column100 column4" data-column="column4">Yes</td>
+<td class="column100 column1" data-column="column1">11</td>
+<td class="column100 column2" data-column="column2"> Extensions & other applications to learning with DS </td>
+<td class="column100 column3" data-column="column3"> Ch. 4, 5, 6 & 7</td>
+<td class="column100 column4" data-column="column4"> Extensions </td>
 </tr>
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">11:50-12:05</td>
-<td class="column100 column2" data-column="column2">  Locally Active Globally Stable (LAGS) DS </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
+<td class="column100 column1" data-column="column1">12</td>
+<td class="column100 column2" data-column="column2"> Overview and exam preparation	 </td>
+<td class="column100 column3" data-column="column3"></td>
+<td class="column100 column4" data-column="column4"> Overview </td>
+</tr>
+
+<tr class="row100">
+<td class="column100 column1" data-column="column1">13</td>
+<td class="column100 column2" data-column="column2"> Franka Robot Practice Session III</td>
+<td class="column100 column3" data-column="column3"></td>
+<td class="column100 column4" data-column="column4"></td>
 </tr>
 
 <!-- <tr class="row100"> -->
@@ -123,23 +166,21 @@ header_xl: images/headergifs.gif
 <!-- <td class="column100 column4" data-column="column4">Yes</td> -->
 <!-- </tr> -->
 
-
-<tr class="row100">
-<td class="column100 column1" data-column="column1">12:05-12:30</td>
-<td class="column100 column2" data-column="column2"><a href="Discussion.html"> Discussion and Q&A</a>  </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
-<td class="column100 column4" data-column="column4">No</td>
-</tr>
-
-
 </tbody>
 </table>
 </div>
 </div>
 </div>
 
+<br><br> <!-- Add some space here -->
+
+The course presented here, whilst based on the book, was adapted to the 13 weeks semester format. Some chapters are therefore only briefly covered in the last lecture.
+
+Moreover, practical sessions are proposed, where students can experiment with the complete pipeline of learning a control law with dynamical systems. The first two sessions are Matlab simulations and in the last one a Franka Emika Panda robot is used to teach and learn a dynamical system.
+
 The exercises can be downloaded from following git repository:
-<a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises"> https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises </a>
+<a href="https://github.com/learningadaptivereactiverobotcontrol/book-code"> https://github.com/learningadaptivereactiverobotcontrol/book-code </a>
+
 
 <!-- Note: The texts in the table are links. If you want to have more information, please click on them. -->
 

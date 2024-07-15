@@ -13,6 +13,14 @@ header_xl: images/headergifs.gif
 --- 
 <h1>Robotic Implementations of Topics in each Lecture</h1>
 
+## Testing stuff out
+- Introduction video 
+<p align="left">
+<iframe id="kmsembed-0_3g8o9pn5" width="560" height="315" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_3g8o9pn5/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 01: Motivation and Overview of Course 2023"></iframe>
+</p>
+
+
+
 ## Learning of Dynamical Systems (Lecture 1)
 - Learning Robot Manipulation Tasks [1]
 <p align="left">

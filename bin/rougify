@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby2.3
+#!/usr/bin/env ruby2.7
 # frozen_string_literal: true
 
 #
