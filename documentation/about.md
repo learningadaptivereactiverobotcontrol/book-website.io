@@ -6,10 +6,10 @@ header: yes
 header_med: images/Header.png
 header_large: images/Header.png
 header_xl: images/Header.png -->
-header_sm: images/headergifs.gif
-header_med: images/headergifs.gif
-header_large: images/headergifs.gif
-header_xl: images/headergifs.gif
+header_sm: images/headers.gif
+header_med: images/headers.gif
+header_large: images/headers.gif
+header_xl: images/headers.gif
 --- 
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <table style="width: 800px; height: 96px;">
