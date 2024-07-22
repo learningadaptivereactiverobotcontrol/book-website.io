@@ -11,6 +11,10 @@ header_med: images/headers.gif
 header_large: images/headers.gif
 header_xl: images/headers.gif
 --- 
+
+<h1>This page will be updated soon.</h1>
+<!-- 
+
 <h1>Robotic Implementations of Topics in each Lecture</h1>
 
 ## Testing stuff out
@@ -64,4 +68,4 @@ header_xl: images/headers.gif
 [2] Huber, L., Billard, A. and Slotine, J.-J. (2019) Avoidance of Convex and Concave Obstacles with Convergence ensured through Contraction. IEEE Robotics and Automation Letters (RA-L).  
 [3] Mirrazavi Salehian, S. S. and Billard, A. (2018) A Dynamical System Based Approach for Controlling Robotic Manipulators During Non-contact/Contact Transitions. IEEE Robotics and Automation Letters (RA-L).
 [4] Amanhoud, W., Khoramshahi, M. and Billard, A. (2019) “A Dynamical System Approach to Motion and Force Generation in Contact Tasks.” In Proceedings of Robotics, Science and Systems (RSS).
-[5] Kronander, K. and Billard, A. (2016) Passive Interaction Control with Dynamical Systems. IEEE Robotics and Automation Letters, vol. 1, iss. 1, Jan. 2016, pp. 106-113. selected for presentation at ICRA 2016.   
+[5] Kronander, K. and Billard, A. (2016) Passive Interaction Control with Dynamical Systems. IEEE Robotics and Automation Letters, vol. 1, iss. 1, Jan. 2016, pp. 106-113. selected for presentation at ICRA 2016.    -->
