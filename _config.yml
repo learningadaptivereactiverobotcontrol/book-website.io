@@ -1,10 +1,10 @@
 # Site settings
 name: Learning Adaptive and Reactive Control for Robots 
-email: sina.mirrazavi@gmail.com
-author: Seyed Sina Mirrazavi Salehian       
+email: maxime.gautier@epfl.ch
+author: Maxime Gautier      
 
-keywords: ICRA, Tutorial, 2019, learning from demonstration,  dynamical systems
-description: This website provides the basic information regarding the ICRA-2019 tutorial on dynamical systems based learning from demonstration.
+keywords: Learning Adaptive and Reactive Control for Robots, learning from demonstration,  dynamical systems
+description: This website provides the information on the course Learning Adaptive and Reactive Control for Robots 
 
 # Only use this if you are serving your site via Github Pages
 github:

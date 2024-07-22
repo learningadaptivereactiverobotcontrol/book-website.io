@@ -125,7 +125,6 @@ header_xl: images/headergifs.gif
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">9</td>
-<!-- <td class="column100 column2" data-column="column2"><a href="Impedance.html"> Impedance/Hybrid Force Control with DS</a>  </td> -->
 <td class="column100 column2" data-column="column2"> Impedance control with Dynamical Systems </td>
 <td class="column100 column3" data-column="column3"> Ch. 10 </td>
 <td class="column100 column4" data-column="column4"> Impedance </td>
@@ -158,13 +157,6 @@ header_xl: images/headergifs.gif
 <td class="column100 column3" data-column="column3"></td>
 <td class="column100 column4" data-column="column4"></td>
 </tr>
-
-<!-- <tr class="row100"> -->
-<!-- <td class="column100 column1" data-column="column1">12:05-12:20</td> -->
-<!-- <td class="column100 column2" data-column="column2"> <a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises/tree/master/exercise5_lags">Matlab Exercise - LAGS-DS</a>   </td> -->
-<!-- <td class="column100 column3" data-column="column3">Everybody</td> -->
-<!-- <td class="column100 column4" data-column="column4">Yes</td> -->
-<!-- </tr> -->
 
 </tbody>
 </table>
