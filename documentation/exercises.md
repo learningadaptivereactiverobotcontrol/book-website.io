@@ -25,7 +25,7 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"><strong>Setup</strong></h2>
-
+<br>
 <p align="justify">You can clone the repository with git by opening a terminal and using the following command : </p>
 <pre><code>git clone https://github.com/learningadaptivereactiverobotcontrol/book-code.git</code></pre>
 
@@ -53,6 +53,6 @@ header_xl: images/headers.gif
 <br><br>
 
 <h2 align="center"><strong>Contact information</strong></h2>
-
+<br>
 <p align="center">For more information contact Aude Billard.</p>
 

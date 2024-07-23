@@ -19,7 +19,7 @@ header_xl: images/headers.gif
 
 <br>
 
-<h2 align="center"> Abstract </h2>
+<h2 align="center"> <strong> Abstract </strong> </h2>
 
 <p align="justify" > This lecture presents the structure of the course and showcase examples of using dynamical systems to control robots. </p>
 
