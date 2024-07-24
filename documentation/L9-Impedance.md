@@ -15,39 +15,42 @@ header_xl: images/headers.gif
 <section class="small-12 large-8 columns page-content">
     
 
-<h1 align="center"> Lecture 9 - Impednace Control with Dynamical Systems</h1>
+<h1 align="center"><strong>Lecture 9 - Impedance Control with Dynamical Systems</strong></h1>
 
 <br>
 
-<h2 align="center"> Abstract </h2>
+<h2 align="center"><strong>Abstract</strong></h2>
 
-<p align="justify" > This lecture presents the structure of the course and showcase examples of using dynamical systems to control robots. </p>
+<p align="justify" > In this lecture, we show how DSs can be combined with impedance control, an approach traditionally used to perform robust torque control, to perform torque control. Impedance control can be shaped in such a way as to enable robots to absorb interaction forces and dissipate energy at contact. This is particularly useful when contacts may be undesired as the result of unexpected disturbances, such as bumping into an object inadvetently, and to make robots safer in the presence of humans. It is, however, often difficult to determine beforehand what the right impedance would be for a given task. For this reason, many methods have been offered to learn what is the right impedance to apply, when, and where. This chapter reviews some of these and shows how learning of variable impedance can be done in conjunction with learning a DS based control law. </p>
 
 <br>
 
-<h2 align="center"> Lecture Video </h2>
+<h2 align="center"><strong>Lecture Video</strong></h2>
 
 <p align="center">
-<iframe id="kmsembed-0_3g8o9pn5" width="560" height="315" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_3g8o9pn5/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 01: Motivation and Overview of Course 2023"></iframe>
+<iframe id="kmsembed-0_bmt9ljr1" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_bmt9ljr1/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 8 | Learning and adaptive control course, Compliant Control for Robots"></iframe>
 </p>
 
 <br>
 
-<h2 align="center"> Slides </h2>
+<h2 align="center"><strong>Slides</strong></h2>
 
-<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/04/Lec1-Intro-Planning-Robotics.pdf" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/05/Lect9_ImpCont-Why-When-How.pdf" target="_blank" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
 
-
-<br>
-
-<h2 align="center">  Exercises Instructions </h2>
-
-<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Lecture_1.pdf" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
 
 <br>
 
-<h2 align="center">  Code for MATLAB Exercises </h2>
+<h2 align="center"><strong>Exercises Instructions</strong></h2>
 
-<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture1-introduction" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Lecture_9.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
+
+<br>
+
+<h2 align="center"><strong>Code for MATLAB Exercises</strong></h2>
+
+<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture1-introduction" target="_blank" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
 
 <p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="exercises.html" style="color: blue;">here.</a> </p>
+
+
+    

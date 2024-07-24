@@ -15,39 +15,42 @@ header_xl: images/headers.gif
 <section class="small-12 large-8 columns page-content">
     
 
-<h1 align="center"> Lecture 7 - Obstacle Avoidance with Dynamical Systems</h1>
+<h1 align="center"><strong>Lecture 7 - Obstacle Avoidance with Dynamical Systems</strong></h1>
 
 <br>
 
-<h2 align="center"> Abstract </h2>
+<h2 align="center"><strong>Abstract</strong></h2>
 
-<p align="justify" > This lecture presents the structure of the course and showcase examples of using dynamical systems to control robots. </p>
+<p align="justify" > This lecture presents how dynamical systems can be used to create robust obstacle avoidance when controlling robots. In order to guarantee obstacle avoidance, one can locally modulate the dynamical system (DS) to contour obstacles or to remain within a given workspace. Importantly, while doing so, we can preserve some of the inherent properties of the DS, such as convergence on a given target. We start with a modulation that allows for avoiding convex obstacles, and then extend it to concave obstacles and to multiple obstacles in movement. We show that the formulation can also be used to enforce a ﬂow to move inside a volume, which would be useful to ensure that the path stays within the robot’s workspace.</p>
 
 <br>
 
-<h2 align="center"> Lecture Video </h2>
+<h2 align="center"><strong>Lecture Video</strong></h2>
 
 <p align="center">
-<iframe id="kmsembed-0_3g8o9pn5" width="560" height="315" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_3g8o9pn5/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 01: Motivation and Overview of Course 2023"></iframe>
+<iframe id="kmsembed-0_alylq824" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_alylq824/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 7 | Learning and adaptive control course, Obstacle Avoidance with DS"></iframe>
 </p>
 
 <br>
 
-<h2 align="center"> Slides </h2>
+<h2 align="center"><strong>Slides</strong></h2>
 
-<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/04/Lec1-Intro-Planning-Robotics.pdf" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/05/Lect7_Obstacle-Avoidance.pdf" target="_blank" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
 
-
-<br>
-
-<h2 align="center">  Exercises Instructions </h2>
-
-<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Lecture_1.pdf" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
 
 <br>
 
-<h2 align="center">  Code for MATLAB Exercises </h2>
+<h2 align="center"><strong>Exercises Instructions</strong></h2>
 
-<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture1-introduction" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Lecture_7.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
+
+<br>
+
+<h2 align="center"><strong>Code for MATLAB Exercises</strong></h2>
+
+<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture1-introduction" target="_blank" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
 
 <p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="exercises.html" style="color: blue;">here.</a> </p>
+
+
+    

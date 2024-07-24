@@ -47,7 +47,7 @@ Moreover, practical sessions are proposed, where students can experiment with th
 
 <br><br>
 
-<h2 align="center"><strong>  Content  </strong> </h2>
+<h2 align="center"><strong>Content</strong></h2> 
 <br>
 <p align="justify"> All public content for this course is available on this website. You can find it organized by week in the "Lectures" menu above or by category below. The weekly correspondance to the book chapters can be found in the table below.</p>
 <br>
@@ -68,7 +68,7 @@ Moreover, practical sessions are proposed, where students can experiment with th
 
 <br><br>
 
-<h2 align="center"><strong> Schedule  </strong> </h2>
+<h2 align="center"><strong>Schedule</strong></h2>
 <br>
 <div class="limiter">
 <div class="wrap-table100">
