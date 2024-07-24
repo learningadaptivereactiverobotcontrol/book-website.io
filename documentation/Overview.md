@@ -91,7 +91,7 @@ header_xl: images/headers.gif
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">5</td>
-<td class="column100 column2" data-column="column2">Matlab Practice Session I	</td>
+<td class="column100 column2" data-column="column2"> <a href="L5-Practical_1.html"> Matlab Practice Session I </a> </td>
 <td class="column100 column3" data-column="column3"></td>
 <td class="column100 column4" data-column="column4"></td>
 </tr>
@@ -160,16 +160,20 @@ header_xl: images/headers.gif
 </div>
 </div>
 
-<br><br> <!-- Add some space here -->
+<br>
 
+<article class="row">
 <section class="small-12 large-10 columns page-content">
     
+<h2 align="center"><strong>  Structure  </strong> </h2>
+<br>
+<p align="justify"> The course presented here, whilst based on the book, was adapted to the 13 weeks semester format. Some chapters are therefore only briefly covered in the last lecture. Each week consists of 2h of lecture followed by 2h of exercises, both written and code.
 
-<p align="justify"> The course presented here, whilst based on the book, was adapted to the 13 weeks semester format. Some chapters are therefore only briefly covered in the last lecture. Moreover, practical sessions are proposed, where students can experiment with the complete pipeline of learning a control law with dynamical systems. The first two sessions are Matlab simulations and in the last one a Franka Emika Panda robot is used to teach and learn a dynamical system. </p>
+Moreover, practical sessions are proposed, where students can experiment with the complete pipeline of learning a control law with dynamical systems. These last 4h each and replace the lecture and exercise of that week. The first two sessions are Matlab simulations and in the last one a Franka Emika Panda robot is used to teach and learn a dynamical system. </p>
 
 <br><br>
 
-<h2 align="center"><strong>  Course Content  </strong> </h2>
+<h2 align="center"><strong>  Content  </strong> </h2>
 <br>
 <p align="justify"> All public content for this course is available on this website. You can find it organized by week in the "Lectures" menu above or by category below. </p>
 <br>
