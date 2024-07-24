@@ -60,7 +60,7 @@ header_xl: images/headers.gif
 <tr class="row100">
 <td class="column100 column1" data-column="column1">1</td>
 <!-- <td class="column100 column2" data-column="column2"> <a href="Introduction.html">Introduction</a> </td> -->
-<td class="column100 column2" data-column="column2"> Introduction to robot path planning </td>
+<td class="column100 column2" data-column="column2"> <a href="L1-Introduction.html"> Introduction to robot path planning </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 1 </td>
 <td class="column100 column4" data-column="column4"> Introduction </td>
 </tr>
@@ -68,14 +68,14 @@ header_xl: images/headers.gif
 <tr class="row100">
 <td class="column100 column1" data-column="column1">2</td>
 <!-- <td class="column100 column2" data-column="column2">  <a href="Learning.html">Learning DS from Demonstrations</a> </td> -->
-<td class="column100 column2" data-column="column2"> Acquiring data for learning </td>
+<td class="column100 column2" data-column="column2"> <a href="L2-Learning.html"> Acquiring data for learning </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 2 </td>
 <td class="column100 column4" data-column="column4"> LfD </td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">3</td>
-<td class="column100 column2" data-column="column2">Introduction to Dynamical Systems (DS) </td>
+<td class="column100 column2" data-column="column2"> <a href="L3-DS.html">Introduction to Dynamical Systems (DS) </a> </td>
 <td class="column100 column3" data-column="column3"> App. A</td>
 <td class="column100 column4" data-column="column4"> DS </td>
 </tr>
@@ -83,7 +83,7 @@ header_xl: images/headers.gif
 <tr class="row100">
 <td class="column100 column1" data-column="column1">4</td>
 <!-- <td class="column100 column2" data-column="column2"><a href="Modulation_obs.html">  Modulation of dynamical systems: Locally refinement and Obstacle avoidance</a></td> -->
-<td class="column100 column2" data-column="column2"> Learning Control laws with DS</td>
+<td class="column100 column2" data-column="column2"> <a href="L4-Learning_Control.html"> Learning Control laws with DS </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 3 </td>
 <td class="column100 column4" data-column="column4"> ML SEDS LPVDS </td>
 </tr>
@@ -99,14 +99,14 @@ header_xl: images/headers.gif
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">6</td>
-<td class="column100 column2" data-column="column2"> Learning how to Modulate a Dynamical Systems </td>
+<td class="column100 column2" data-column="column2"> <a href="L6-Modulation.html"> Learning how to Modulate a Dynamical Systems </a> </td>
 <td class="column100 column3" data-column="column3"> CH. 8 </td>
 <td class="column100 column4" data-column="column4"> Modulation </td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">7</td>
-<td class="column100 column2" data-column="column2"> Obstacle avoidance with Dynamical Systems</td>
+<td class="column100 column2" data-column="column2"> <a href="L7-Avoidance.html"> Obstacle avoidance with Dynamical Systems </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 9 </td>
 <td class="column100 column4" data-column="column4"> Obstacle </td>
 </tr>
@@ -121,28 +121,28 @@ header_xl: images/headers.gif
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">9</td>
-<td class="column100 column2" data-column="column2"> Impedance control with Dynamical Systems </td>
+<td class="column100 column2" data-column="column2"> <a href="L9-Impedance.html"> Impedance control with Dynamical Systems </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 10 </td>
 <td class="column100 column4" data-column="column4"> Impedance </td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">10</td>
-<td class="column100 column2" data-column="column2"> Force control with Dynamical Systems </td>
+<td class="column100 column2" data-column="column2"> <a href="L10-Force.html"> Force control with Dynamical Systems </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 11 </td>
 <td class="column100 column4" data-column="column4"> Passive DS </td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">11</td>
-<td class="column100 column2" data-column="column2"> Extensions & other applications to learning with DS </td>
+<td class="column100 column2" data-column="column2"> <a href="L11-Extensions.html"> Extensions & other applications to learning with DS </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 4, 5, 6 & 7</td>
 <td class="column100 column4" data-column="column4"> Extensions </td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">12</td>
-<td class="column100 column2" data-column="column2"> Overview and exam preparation	 </td>
+<td class="column100 column2" data-column="column2"> <a href="L12-Overview.html"> Overview and exam preparation </a> </td>
 <td class="column100 column3" data-column="column3"></td>
 <td class="column100 column4" data-column="column4"> Overview </td>
 </tr>
