@@ -15,7 +15,7 @@ header_xl: images/headers.gif
     .table100 th, .table100 td {
         padding: 10px; /* Adjust the padding for better spacing */
         text-align: left; /* Align text to the left for better readability */
-        margin: 100 px; /* auto;  Center the table */
+        margin: 0 auto;  /*Center the table */
     }
 
     /* Set specific widths for the columns */
@@ -39,7 +39,7 @@ header_xl: images/headers.gif
 <article class="row">
 <section class="small-12 large-10 columns page-content">
     
-<h2 align="center"><strong>  Structure  </strong> </h2>
+<h2 align="center"><strong>Structure</strong> </h2>
 <br>
 <p align="justify"> The course presented here, whilst based on the book, was adapted to the 13 weeks semester format. Some chapters are therefore only briefly covered in the last lecture. Each week consists of 2h of lecture followed by 2h of exercises, both written and code.
 
@@ -68,7 +68,15 @@ Moreover, practical sessions are proposed, where students can experiment with th
 
 <br><br>
 
-<h2 align="center"><strong>Schedule</strong></h2>
+<h2 align="center"><strong>  Solutions </strong> </h2>
+<br>
+<p align="justify"> Solutions to both pen and paper and programming exercises offered in the book can be obtained by lecturers upon request. These are given only to lecturers who have purchased the book and if these solutions are to be used in a course. You can request the solutions <a href="https://mitpress.mit.edu/books/learning-adaptive-and-reactive-robot-control" style="color: blue;"> here </a> by clicking on ‘Digital Exam/Desk Copy’ and choosing supplemental materials afterwards.  </p>
+<br>
+<p>Solutions to Practicals I and II are publicly available on a separate branch. All others solutions must be requested through the MIT Press portal. </p>
+
+<br><br>
+
+<h2 align="center"><strong>Book Correspondance</strong></h2>
 <br>
 <div class="limiter">
 <div class="wrap-table100">
@@ -84,14 +92,12 @@ Moreover, practical sessions are proposed, where students can experiment with th
 <tbody>
 <tr class="row100">
 <td class="column100 column1" data-column="column1">1</td>
-<!-- <td class="column100 column2" data-column="column2"> <a href="Introduction.html">Introduction</a> </td> -->
 <td class="column100 column2" data-column="column2"> <a href="L1-Introduction.html"> Introduction to robot path planning </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 1 </td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">2</td>
-<!-- <td class="column100 column2" data-column="column2">  <a href="Learning.html">Learning DS from Demonstrations</a> </td> -->
 <td class="column100 column2" data-column="column2"> <a href="L2-Learning.html"> Acquiring data for learning </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 2 </td>
 </tr>
@@ -104,18 +110,15 @@ Moreover, practical sessions are proposed, where students can experiment with th
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">4</td>
-<!-- <td class="column100 column2" data-column="column2"><a href="Modulation_obs.html">  Modulation of dynamical systems: Locally refinement and Obstacle avoidance</a></td> -->
 <td class="column100 column2" data-column="column2"> <a href="L4-Learning_Control.html"> Learning Control laws with DS </a> </td>
 <td class="column100 column3" data-column="column3"> Ch. 3 </td>
 </tr>
-
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">5</td>
 <td class="column100 column2" data-column="column2"> <a href="L5-Practical_1.html"> Matlab Practice Session I </a> </td>
 <td class="column100 column3" data-column="column3"></td>
 </tr>
-
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">6</td>
@@ -131,10 +134,9 @@ Moreover, practical sessions are proposed, where students can experiment with th
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">8</td>
-<td class="column100 column2" data-column="column2"> Matlab Practice session II	 </td>
+<td class="column100 column2" data-column="column2"> <a href="L8-Practical_2.html"> Matlab Practice session II </a> </td>
 <td class="column100 column3" data-column="column3"></td>
 </tr>
-
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">9</td>
@@ -162,7 +164,7 @@ Moreover, practical sessions are proposed, where students can experiment with th
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">13</td>
-<td class="column100 column2" data-column="column2"> Franka Robot Practice Session III</td>
+<td class="column100 column2" data-column="column2"> <a href="L13-Practical_3.html"> Franka Robot Practice Session III </a> </td>
 <td class="column100 column3" data-column="column3"></td>
 </tr>
 
@@ -172,15 +174,6 @@ Moreover, practical sessions are proposed, where students can experiment with th
 </div>
 </div>
 
-<br><br>
-
-<h2 align="center"><strong>  Solutions </strong> </h2>
-<br>
-<p align="justify"> Solutions to both pen and paper and programming exercises offered in the book can be obtained by lecturers upon request. These are given only to lecturers who have purchased the book and if these solutions are to be used in a course. You can request the solutions <a href="https://mitpress.mit.edu/books/learning-adaptive-and-reactive-robot-control" style="color: blue;"> here </a> by clicking on ‘Digital Exam/Desk Copy’ and choosing supplemental materials afterwards.  </p>
-<br>
-<p>Solutions to Practicals I and II are publicly available on a separate branch. All others solutions must be requested through the MIT Press portal. </p>
-
-<br><br>
 
 <!-- <h2 align="center"><strong>  Software </strong> </h2>
 

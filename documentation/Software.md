@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /documentation/practicals.html
+permalink: /documentation/Software.html
 header: yes
 <!-- header_sm: images/Header.png
 header_med: images/Header.png

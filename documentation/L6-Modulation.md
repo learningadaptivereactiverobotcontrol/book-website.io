@@ -47,7 +47,7 @@ header_xl: images/headers.gif
 
 <h2 align="center"><strong>Code for MATLAB Exercises</strong></h2>
 
-<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture1-introduction" target="_blank" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
+<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture6-modulating-ds" target="_blank" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
 
 <p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="exercises.html" style="color: blue;">here.</a> </p>
 

@@ -16,10 +16,14 @@
       subhref: "/documentation/L3-DS.html"
     - subtitle: "Week 4: Learning Control laws with DS"
       subhref: "/documentation/L4-Learning_Control.html"
+    - subtitle: "Week 5: Practice Session I"
+      subhref: "/documentation/L5-Practical_1.html"
     - subtitle: "Week 6: Learning how to Modulate a DS"
       subhref: "/documentation/L6-Modulation.html"
     - subtitle: "Week 7: Obstacle avoidance with DS"
       subhref: "/documentation/L7-Avoidance.html"
+    - subtitle: "Week 8: Practice Session II"
+      subhref: "/documentation/L8-Practical_2.html"
     - subtitle: "Week 9: Impedance Control with DS"
       subhref: "/documentation/L9-Impedance.html"
     - subtitle: "Week 10: Force Control with DS"
@@ -28,15 +32,17 @@
       subhref: "/documentation/L11-Extensions.html"
     - subtitle: "Week 12: Overview and Exam preparation"
       subhref: "/documentation/L12-Overview.html"
+    - subtitle: "Week 13: Practice Session III"
+      subhref: "/documentation/L13-Practical_3.html"
 
 - title: "Exercises"
-  href: "/documentation/exercises.html"
+  href: "/documentation/Exercises.html"
 
-- title: "Practicals"
-  href: "/documentation/practicals.html"
+- title: "Software"
+  href: "/documentation/Software.html"
       
-- title: "About us"
-  href: "/documentation/about.html"
+# - title: "About us"
+#   href: "/documentation/about.html"
   
   
       

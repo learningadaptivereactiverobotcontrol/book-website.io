@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /documentation/exercises.html
+permalink: /documentation/Exercises.html
 header: yes
 <!-- header_sm: images/Header.png
 header_med: images/Header.png
@@ -18,13 +18,13 @@ header_xl: images/headers.gif
 
 <br>
 
-<p align="center" >All exercises for the courses are available on this <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" style="color: blue;">GitHub repository</a>. </p>
+<p align="center" >All exercises for the course are available on this <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" style="color: blue;">GitHub repository</a>. </p>
 <br>
 <p align="justify">The code provided here is sorted by lecture, where each exercise session follows its corresponding lecture and is meant to last 2 hours, with 1h of theoretical exercises and 1h of programming exercises. The practicals are 4 hours long sessions of programming exercises which replace lectures 5, 8 and 11 respectively.<p>
 
 <br>
 
-<h2 align="center"><strong>Setup</strong></h2>
+<h2 align="center"><strong>Software Setup</strong></h2>
 <br>
 <p align="justify">You can clone the repository with git by opening a terminal and using the following command : </p>
 <pre><code>git clone https://github.com/learningadaptivereactiverobotcontrol/book-code.git</code></pre>
@@ -50,8 +50,18 @@ header_xl: images/headers.gif
 <br>
 <p>Further instructions for installation can be found in the README. </p>
 
-<br><br>
+<br>
 
+<h2 align="center"><strong>Solutions</strong></h2>
+<br>
+
+<p align="justify"> Solutions to both pen and paper and programming exercises offered in the book can be obtained by lecturers upon request. These are given only to lecturers who have purchased the book and if these solutions are to be used in a course. You can request the solutions <a href="https://mitpress.mit.edu/books/learning-adaptive-and-reactive-robot-control" style="color: blue;"> here </a> by clicking on ‘Digital Exam/Desk Copy’ and choosing supplemental materials afterwards.  </p>
+<br>
+<p>Solutions to Practicals I and II are publicly available on a separate branch. All others solutions must be requested through the MIT Press portal. </p>
+
+
+
+<br><br>
 <h2 align="center"><strong>Contact information</strong></h2>
 <br>
 <p align="center">For more information contact <a href="mailto:aude.billard@epfl.ch" style="color: blue;"> Aude Billard</a>.</p>
