@@ -170,8 +170,8 @@ header_xl: images/headers.gif
 <br><br>
 
 <h2 align="center"><strong>  Course Content  </strong> </h2>
-
-<p align="justify"> All public content available for this course can be found on this website. You can find it organized by week in the Lectures menu above or by category below. </p>
+<br>
+<p align="justify"> All public content for this course is available on this website. You can find it organized by week in the "Lectures" menu above or by category below. </p>
 <br>
  <div align="center">
         <p style="display: inline-block; margin-right: 40px;">
@@ -191,7 +191,7 @@ header_xl: images/headers.gif
 <br><br>
 
 <h2 align="center"><strong>  Solutions </strong> </h2>
-
+<br>
 <p align="justify"> Solutions to both pen and paper and programming exercises offered in the book can be obtained by lecturers upon request. These are given only to lecturers who have purchased the book and if these solutions are to be used in a course. You can request the solutions <a href="https://mitpress.mit.edu/books/learning-adaptive-and-reactive-robot-control" style="color: blue;"> here </a> by clicking on ‘Digital Exam/Desk Copy’ and choosing supplemental materials afterwards.  </p>
 <br>
 <p>Solutions to Practicals I and II are publicly available on a separate branch. All others solutions must be requested through the MIT Press portal. </p>
