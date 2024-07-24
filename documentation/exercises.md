@@ -54,5 +54,5 @@ header_xl: images/headers.gif
 
 <h2 align="center"><strong>Contact information</strong></h2>
 <br>
-<p align="center">For more information contact Aude Billard.</p>
+<p align="center">For more information contact <a href="mailto:aude.billard@epfl.ch" style="color: blue;"> Aude Billard</a>.</p>
 
