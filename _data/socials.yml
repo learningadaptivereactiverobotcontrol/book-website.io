@@ -1,4 +1,4 @@
-- title: "rss2"
+- title: "book"
   href: "https://mitpress.mit.edu/books/learning-adaptive-and-reactive-robot-control/"
 
 - title: "mail"  
@@ -18,5 +18,5 @@
 - title: "github"
   href: "https://github.com/learningadaptivereactiverobotcontrol/book-code"
 
-- title: "address-book"
+- title: "users"
   href: "https://www.epfl.ch/labs/lasa/people/"
