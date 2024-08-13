@@ -72,7 +72,7 @@ Moreover, practical sessions are proposed, where students can experiment with th
 <br>
 <p align="justify"> Solutions to both pen and paper and programming exercises offered in the book can be obtained by lecturers upon request. These are given only to lecturers who have purchased the book and if these solutions are to be used in a course. You can request the solutions <a href="https://mitpress.mit.edu/books/learning-adaptive-and-reactive-robot-control" style="color: blue;"> here </a> by clicking on ‘Digital Exam/Desk Copy’ and choosing supplemental materials afterwards.  </p>
 <br>
-<p>Solutions to Practicals I and II are publicly available on a separate branch. All others solutions must be requested through the MIT Press portal. </p>
+<p>Solutions to Practicals I and II are publicly available on a separate <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/practicals_solutions" style="color: blue;"> branch</a>. Solutions to the first handwritten exercise of each session are also provided here. All others solutions must be requested through the MIT Press portal. </p>
 
 <br><br>
 
