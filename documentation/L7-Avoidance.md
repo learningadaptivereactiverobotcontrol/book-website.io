@@ -73,3 +73,9 @@ Theoritical guarantees : <br>
 Type of dynamics : non-linear, joint-space <br>
 
 </p>
+
+<br>
+
+<h2 align="center"><strong>First Theoretical Exercise Solution</strong></h2>
+
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Solution_Lecture_7.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the solution of the first handwritten exercise.</p>   

@@ -62,6 +62,9 @@ Moreover, practical sessions are proposed, where students can experiment with th
             <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/07/Exercise-Instructions.zip" target="_blank" style="color: blue;">Exercises Instructions</a>
         </p>
         <p style="display: inline-block; margin-right: 40px;">
+            <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Public_Solutions_Handwritten.zip" target="_blank" style="color: blue;">Public Solutions</a>
+        </p>
+        <p style="display: inline-block; margin-right: 40px;">
             <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" target="_blank" style="color: blue;">Software</a>
         </p>
     </div>

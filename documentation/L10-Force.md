@@ -52,5 +52,8 @@ header_xl: images/headers.gif
 
 <p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="exercises.html" style="color: blue;">here.</a> </p>
 
+<br>
 
-    
+<h2 align="center"><strong>First Theoretical Exercise Solution</strong></h2>
+
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Solution_Lecture_10.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the solution of the first handwritten exercise.</p>   
