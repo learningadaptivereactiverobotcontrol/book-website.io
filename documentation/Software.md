@@ -12,10 +12,34 @@ header_large: images/headers.gif
 header_xl: images/headers.gif
 --- 
 
-<h1>This page will be updated soon.</h1>
+<h1><strong>Software for Learning Adaptive and Reactive Robot Control</strong></h1>
+
+<br>
+<h2 align="center"><strong>Course Exercises</strong></h2>
+<br>
+
+<p align="justify"> The software exercises for the course are available in this <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" style="color: blue;">GitHub repository</a>. Detailled instructions for setup can be found in the  <a href="/documentation/Exercises.html" style="color: blue;"> Exercises</a> tab of the menu, as well as in the repository's README.
+</p>
+
+<br>
+<h2 align="center"><strong>Obstacle Avoidance</strong></h2>
+<br>
+
+<p>
+Python packages by Lukas Huber for :
+<ul>
+<li>&nbsp; &nbsp;  &nbsp;  &nbsp; -  <a href="https://github.com/hubernikus/nonlinear_obstacle_avoidance" style="color: blue;"  target="_blank"> Non linear obstacle avoidance</a> </li>
+<li>&nbsp; &nbsp;  &nbsp;  &nbsp; -  <a href="https://github.com/hubernikus/dynamic_obstacle_avoidance" style="color: blue;"  target="_blank"> Dynamic obstacle avoidance </a> </li>
+<li>&nbsp; &nbsp;  &nbsp;  &nbsp; -  <a href="https://github.com/hubernikus/fast_obstacle_avoidance" style="color: blue;" target="_blank"> Fast obstacle avoidance</a> </li>
+</ul>
+</p>
+
+<br>
+<p>Python code by Mikhail Koptev for <a href="https://github.com/epfl-lasa/OptimalModulationDS" style="color: blue;" target="_blank"> reactive joint space obstacle avoidance</a>.</p>
+
+
 <!-- 
 
-<h1>Robotic Implementations of Topics in each Lecture</h1>
 
 ## Testing stuff out
 - Introduction video 

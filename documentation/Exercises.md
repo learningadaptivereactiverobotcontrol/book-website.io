@@ -34,17 +34,19 @@ header_xl: images/headers.gif
 <br>
 
 <p align="justify" >You will need a version of Matlab from 2019 or higher with the following toolboxes :
+
 <ul>
-  <li>- Control System</li>
-  <li>- Curve Fitting</li>
-  <li>- Deep Learning</li>
-  <li>- Image Processing</li>
-  <li>- Model Predictive Control</li>
-  <li>- Optimization</li>
-  <li>- Robotic System</li>
-  <li>- Signal Processing</li>
-  <li>- Statistics and Machine Learning</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Control System</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Curve Fitting</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Deep Learning</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Image Processing</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Model Predictive Control</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Optimization</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Robotic System</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Signal Processing</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Statistics and Machine Learning</li>
 </ul>
+
 </p>
 
 <br>

@@ -75,7 +75,9 @@ header_xl: images/headers.gif
 <h3 align="left"><strong>Real-time Joint-Space Obstacle Avoidance</strong></h3>
 <br>
 <!-- KOPTEV -->
-<p align="center">  <img src="../images/koptev_avoidance.jpeg" alt="Koptev avoidance" style="vertical-align: middle;"/> </p>
+
+<p align="center"> <img src="https://github.com/epfl-lasa/OptimalModulationDS/assets/22716499/c09470f3-6adf-421c-b704-d316392e73fd" alt="koptev_shelf" style="vertical-align: middle;"/> </p>
+<!-- <p align="center">  <img src="../images/koptev_avoidance.jpeg" alt="Koptev avoidance" style="vertical-align: middle;"/> </p> -->
 <br>
     
 <p align="center">  <i> Paper</i>  : <a href="https://ieeexplore.ieee.org/abstract/document/9976191" style="color: blue;">Neural Joint Space Implicit Signed Distance Functions for Reactive Robot Manipulator Control</a> </p>
