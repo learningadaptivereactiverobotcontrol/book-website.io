@@ -11,8 +11,9 @@ header_med: images/headers.gif
 header_large: images/headers.gif
 header_xl: images/headers.gif
 --- 
+<section class="small-12 large-10 columns page-content">
 
-<h1><strong>Software for Learning Adaptive and Reactive Robot Control</strong></h1>
+<h1 align="center"><strong>Software for Learning Adaptive and Reactive Robot Control</strong></h1>
 
 <br>
 <h2 align="center"><strong>Course Exercises</strong></h2>
@@ -24,18 +25,25 @@ header_xl: images/headers.gif
 <br>
 <h2 align="center"><strong>Obstacle Avoidance</strong></h2>
 <br>
+<p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="550"></p>
+<p align="center">
+Python packages by Lukas Huber for : </p>
+<div align="center">
+        <p style="display: inline-block; margin-right: 40px;">
+            <a href="https://github.com/hubernikus/nonlinear_obstacle_avoidance" style="color: blue;"  target="_blank"> Non linear obstacle avoidance</a>
+        </p>
+        <p style="display: inline-block; margin-right: 40px;">
+            <a href="https://github.com/hubernikus/dynamic_obstacle_avoidance" style="color: blue;"  target="_blank"> Dynamic obstacle avoidance </a>
+        </p>
+        <p style="display: inline-block; margin-right: 40px;">
+            <a href="https://github.com/hubernikus/fast_obstacle_avoidance" style="color: blue;" target="_blank"> Fast obstacle avoidance</a>
+        </p>
+</div>
 
-<p>
-Python packages by Lukas Huber for :
-<ul>
-<li>&nbsp; &nbsp;  &nbsp;  &nbsp; -  <a href="https://github.com/hubernikus/nonlinear_obstacle_avoidance" style="color: blue;"  target="_blank"> Non linear obstacle avoidance</a> </li>
-<li>&nbsp; &nbsp;  &nbsp;  &nbsp; -  <a href="https://github.com/hubernikus/dynamic_obstacle_avoidance" style="color: blue;"  target="_blank"> Dynamic obstacle avoidance </a> </li>
-<li>&nbsp; &nbsp;  &nbsp;  &nbsp; -  <a href="https://github.com/hubernikus/fast_obstacle_avoidance" style="color: blue;" target="_blank"> Fast obstacle avoidance</a> </li>
-</ul>
-</p>
-
+<br><br>
+<p align="center"> <img src="https://github.com/epfl-lasa/OptimalModulationDS/assets/22716499/c09470f3-6adf-421c-b704-d316392e73fd" alt="koptev_shelf" style="vertical-align: middle;"/> </p>
 <br>
-<p>Python code by Mikhail Koptev for <a href="https://github.com/epfl-lasa/OptimalModulationDS" style="color: blue;" target="_blank"> reactive joint space obstacle avoidance</a>.</p>
+<p align="center">Python code by Mikhail Koptev for <a href="https://github.com/epfl-lasa/OptimalModulationDS" style="color: blue;" target="_blank"> reactive joint space obstacle avoidance</a>.</p>
 
 
 <!-- 

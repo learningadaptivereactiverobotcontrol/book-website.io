@@ -38,8 +38,8 @@ header_xl: images/headers.gif
 
 <article class="row">
 <section class="small-12 large-10 columns page-content">
-    
-<h2 align="center"><strong>Structure</strong> </h2>
+
+<h1 align="center"><strong>Structure Overview</strong></h1> 
 <br>
 <p align="justify"> The course presented here, whilst based on the book, was adapted to the 13 weeks semester format. Some chapters are therefore only briefly covered in the last lecture. Each week consists of 2h of lecture followed by 2h of exercises, both written and code.
 
