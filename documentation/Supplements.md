@@ -20,7 +20,7 @@ header_xl: images/headers.gif
 <h2 align="center"><strong>Obstacle Avoidance</strong></h2>
 <br>
 
-<h3 align="left"><strong>Guaranteed obstacle avoidance of dense and dynamic obstacles in enclosed spaces</strong></h3>
+<h3 align="center"><strong>Guaranteed obstacle avoidance of dense and dynamic obstacles in enclosed spaces</strong></h3>
 <!-- <h3 align="left"><strong>Exact obstacle avoidance in complex and dynamic environments </strong></h3> -->
 <br>
 <!-- LUKAS -->
@@ -52,7 +52,7 @@ header_xl: images/headers.gif
 <br>
 <br>
 <!-- <h3 align="left"><strong>Guaranteed avoidance of convex and concave obstacles </strong></h3> -->
-<h3 align="left"><strong>Fast obstacle avoidance</strong></h3>
+<h3 align="center"><strong>Fast obstacle avoidance</strong></h3>
 <br>
 <!-- LUKAS -->
 <p align="center"> <img src="../images/lukas_2022.gif" alt="lukas 2022" style="width: 600px; vertical-align: middle;"/> </p>
@@ -72,7 +72,7 @@ header_xl: images/headers.gif
 
 <br><br>
 
-<h3 align="left"><strong>Real-time Joint-Space Obstacle Avoidance</strong></h3>
+<h3 align="center"><strong>Real-time Joint-Space Obstacle Avoidance</strong></h3>
 <br>
 <!-- KOPTEV -->
 
@@ -96,7 +96,7 @@ header_xl: images/headers.gif
 <br>
 
 
-<h3 align="left"><strong>Multi-attractor DS</strong></h3>
+<h3 align="center"><strong>Multi-attractor DS</strong></h3>
 <br>
 <!-- BERNARDO -->
 <p align="center">  <img src="../images/bernardo_multi_att_ds.png" alt="Koptev avoidance" style="vertical-align: middle;"/> </p>
