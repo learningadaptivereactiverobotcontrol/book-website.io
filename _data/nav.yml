@@ -7,6 +7,7 @@
   href: "/documentation/Overview.html"
 
 - title: "Lectures"
+  href: "/documentation/Lectures.html"
   subcategories:
     - subtitle: "Week 1: Introduction"
       subhref: "/documentation/L1-Introduction.html"
@@ -35,8 +36,8 @@
     - subtitle: "Week 13: Practice Session III"
       subhref: "/documentation/L13-Practical_3.html"
 
-- title: "Exercises"
-  href: "/documentation/Exercises.html"
+# - title: "Exercises"
+#   href: "/documentation/Exercises.html"
 
 - title: "Software"
   href: "/documentation/Software.html"

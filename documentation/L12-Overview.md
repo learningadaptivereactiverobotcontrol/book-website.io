@@ -20,8 +20,10 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"><strong>Abstract</strong></h2>
-
-<p align="justify" > This lecture presents an overview of the course, summurazing key componetns of each lecture. </p>
+<div style="line-height: 50%">    
+<br>    
+</div> 
+<p align="justify" > This lecture presents an overview of the course, summarizing key components of each lecture. </p>
 
 <br>
 
@@ -35,23 +37,17 @@ header_xl: images/headers.gif
 <br> -->
 
 <h2 align="center"><strong>Slides</strong></h2>
-
-<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/04/Lec1-Intro-Planning-Robotics.pdf" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
+<div style="line-height: 50%">    
+<br>    
+</div> 
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2023/03/Lec13-Overview-ExamPrep.pdf" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
 
 
 <br>
 
 <h2 align="center"><strong>Exercises Instructions</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+</div> 
+<p align="center"> There are no exercises for this lecture. </p>
 
-<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Lecture_1.pdf" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
-
-<br>
-
-<h2 align="center"><strong>Code for MATLAB Exercises</strong></h2>
-
-<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture1-introduction" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
-
-<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="exercises.html" style="color: blue;">here.</a> </p>
-
-
-    

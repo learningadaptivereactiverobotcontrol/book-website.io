@@ -20,13 +20,17 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"><strong>Abstract</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="justify" > This lecture presents a host of methods which extend the capabilities of control with dynamical systems, along the example of applications. We cover the coupling of dynamical systems, multi-attractor dynamical systems, Switching across dynamical systems and online update of dynamical systems. </p>
 
 <br>
 
 <h2 align="center"><strong>Lecture Videos</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center">
 <iframe id="kmsembed-0_1vs54r1w" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_1vs54r1w/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 12 - Part 1 |  Learning and adaptive control course, Extensions to DS - Part 1"></iframe>
 </p>
@@ -38,13 +42,17 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"><strong>Slides</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/05/lect12_Extensions-to-DS.pdf" target="_blank" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
 
 <br>
 
 <h2 align="center"><strong>Exercises Instructions</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> There are no exercises for this lecture. </p>
 
 <!-- <br>

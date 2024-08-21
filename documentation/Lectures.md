@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /documentation/Overview.html
+permalink: /documentation/Lectures.html
 header: yes
 header_sm: images/headers.gif
 header_med: images/headers.gif
@@ -39,18 +39,7 @@ header_xl: images/headers.gif
 <article class="row">
 <section class="small-12 large-10 columns page-content">
 
-<h1 align="center"><strong>Structure Overview</strong></h1> 
-<br>
-<p align="justify"> The course presented here, whilst based on the book, was adapted to the 13 weeks semester format. Some chapters are therefore only briefly covered in the last lecture. Each week consists of 2h of lecture followed by 2h of exercises, both written and code.</p>
-<div style="line-height: 20%">    
-<br>    
-</div> 
-<p align="justify">
-Moreover, practical sessions are proposed, where students can experiment with the complete pipeline of learning a control law with dynamical systems. These last 4h each and replace the lecture and exercise of that week. </p>
-
-<br><br>
-
-<h2 align="center"><strong>Content</strong></h2> 
+<h1 align="center"><strong>Lectures Overview</strong></h1> 
 <div style="line-height: 50%">    
 <br>    
 </div> 
@@ -74,29 +63,6 @@ Moreover, practical sessions are proposed, where students can experiment with th
         </p>
     </div>
 
-<br><br>
-
-
-<h2 align="center"><strong> Exercises </strong> </h2>
-<div style="line-height: 50%">    
-<br>    
-</div> 
-<p align="justify">The exercise sessions for the course are made up of both <i>theoretical exercises</i> and <i>programming exercises</i>. Theoretical exercises should be handwritten, whilst programming exercises are to be done in MATLAB. The instructions for both types of exercises are regrouped in a single pdf for each session. A .zip file containing all the instructions is available just above. </p>
-<br>
-<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. Detailled instructions for installation can be found <a href="Software.html" style="color: blue;">here.</a> </p>
-
-
-<br><br>
-
-
-
-<h2 align="center"><strong> Solutions </strong> </h2>
-<div style="line-height: 50%">    
-<br>    
-</div> 
-<p align="justify"> Solutions to both pen and paper and programming exercises offered in the book can be obtained by lecturers upon request. These are given only to lecturers who have purchased the book and if these solutions are to be used in a course. You can request the solutions <a href="https://mitpress.mit.edu/books/learning-adaptive-and-reactive-robot-control" style="color: blue;"> here </a> by clicking on ‘Digital Exam/Desk Copy’ and choosing supplemental materials afterwards.  </p>
-<br>
-<p>Solutions to Practicals I and II are publicly available on a separate <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/practicals_solutions" style="color: blue;"> branch</a>. Solutions to the first handwritten exercise of each session are also provided here. All others solutions must be requested through the MIT Press portal. </p>
 
 <br><br>
 

@@ -17,81 +17,48 @@ header_xl: images/headers.gif
 
 <br>
 <h2 align="center"><strong>Course Exercises</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+</div> 
+<p align="center" >Code for the programming exercises for the course is available <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" style="color: blue;" target="_blank">here</a>. </p>
+<br>
+<p align="justify">The code provided here is sorted by lecture, where each exercise session follows its corresponding lecture and is meant to last 2 hours, with 1h of theoretical exercises and 1h of programming exercises. The practicals are 4 hours long sessions of programming exercises which replace lectures 5, 8 and 11 respectively.<p>
+
 <br>
 
-<p align="justify"> The software exercises for the course are available in this <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" style="color: blue;">GitHub repository</a>. Detailled instructions for setup can be found in the  <a href="/documentation/Exercises.html" style="color: blue;"> Exercises</a> tab of the menu, as well as in the repository's README.
+<h2 align="center"><strong>Software Setup</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+</div> 
+<p align="justify">The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder.</p><br>
+<p align="justify"> You can clone the repository with git by opening a terminal and using the following command : </p>
+<pre><code>git clone https://github.com/learningadaptivereactiverobotcontrol/book-code.git</code></pre>
+
+<p align="justify" > Alternatively, on the repository page you can click on the <img src="../images/code_button.png" alt="Code button" style="vertical-align: middle;"/> button and download everything as a ZIP file.</p>
+
+<br>
+
+<p align="justify" >You will need a version of Matlab from 2019 or higher with the following toolboxes :
+
+<ul>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Control System</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Curve Fitting</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Deep Learning</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Image Processing</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Model Predictive Control</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Optimization</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Robotic System</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Signal Processing</li>
+  <li> &nbsp; &nbsp;  &nbsp;  &nbsp; - Statistics and Machine Learning</li>
+</ul>
+
 </p>
 
 <br>
-<h2 align="center"><strong>Obstacle Avoidance</strong></h2>
-<br>
-<p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="550"></p>
-<p align="center">
-Python packages by Lukas Huber for : </p>
-<div align="center">
-        <p style="display: inline-block; margin-right: 40px;">
-            <a href="https://github.com/hubernikus/nonlinear_obstacle_avoidance" style="color: blue;"  target="_blank"> Non linear obstacle avoidance</a>
-        </p>
-        <p style="display: inline-block; margin-right: 40px;">
-            <a href="https://github.com/hubernikus/dynamic_obstacle_avoidance" style="color: blue;"  target="_blank"> Dynamic obstacle avoidance </a>
-        </p>
-        <p style="display: inline-block; margin-right: 40px;">
-            <a href="https://github.com/hubernikus/fast_obstacle_avoidance" style="color: blue;" target="_blank"> Fast obstacle avoidance</a>
-        </p>
-</div>
-
-<br><br>
-<p align="center"> <img src="https://github.com/epfl-lasa/OptimalModulationDS/assets/22716499/c09470f3-6adf-421c-b704-d316392e73fd" alt="koptev_shelf" style="vertical-align: middle;"/> </p>
-<br>
-<p align="center">Python code by Mikhail Koptev for <a href="https://github.com/epfl-lasa/OptimalModulationDS" style="color: blue;" target="_blank"> reactive joint space obstacle avoidance</a>.</p>
+<p>Detailled instructions for installation can be found in the README. </p>
 
 
 <!-- 
-
-
-## Testing stuff out
-- Introduction video 
-<p align="left">
-<iframe id="kmsembed-0_3g8o9pn5" width="560" height="315" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_3g8o9pn5/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 01: Motivation and Overview of Course 2023"></iframe>
-</p>
-
-
-
-## Learning of Dynamical Systems (Lecture 1)
-- Learning Robot Manipulation Tasks [1]
-<p align="left">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HfV4jbJBWTQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</p>
-
-- Learning Wheelchair Navigation Tasks [1]
-<p align="left">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5EjMoMuOrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-<br>
-
-## Modulation of Dynamical Systems (Lecture 2)
-- Modulation for Obstacle Avoidance [2]
-<p align="left">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HbNxEVP3pJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-- Modulation for Contact/Non-Contact Transitions [3]
-<p align="left">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fhfBBMH4XVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-<br>
-
-## Dynamical System based Impedance Control (Lecture 3)
-- Force Generation with Dynamical Systems [4]
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lz0uxUEVc3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Passive Interaction Control with Dynamical Systems [5]
-<p align="left">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4fnPVRWWEU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</p>
 
 <br>
 

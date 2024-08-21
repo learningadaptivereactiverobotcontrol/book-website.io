@@ -20,19 +20,25 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"> <strong> Abstract </strong> </h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="justify" > This week, the 4h for the course are dedicated to a practice session to explore learning and modulations of a dynamical system with on a real robot. </p>
 
 <br>
 
-<h2 align="center">  <strong>  Practical Instructions </strong>  </h2>
-
+<h2 align="center">  <strong> Practical Instructions </strong>  </h2>
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Practical_3-1.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
 
 <br>
 
 <h2 align="center">  <strong>  Code for MATLAB Exercises  </strong> </h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Code for this practical is not yet public.</p>
 
 <!-- 

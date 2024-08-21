@@ -20,13 +20,17 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"><strong>Abstract</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="justify" > In this lecture, we show how DSs can be combined with impedance control, an approach traditionally used to perform robust torque control, to perform torque control. Impedance control can be shaped in such a way as to enable robots to absorb interaction forces and dissipate energy at contact. This is particularly useful when contacts may be undesired as the result of unexpected disturbances, such as bumping into an object inadvetently, and to make robots safer in the presence of humans. It is, however, often difficult to determine beforehand what the right impedance would be for a given task. For this reason, many methods have been offered to learn what is the right impedance to apply, when, and where. This chapter reviews some of these and shows how learning of variable impedance can be done in conjunction with learning a DS based control law. </p>
 
 <br>
 
 <h2 align="center"><strong>Lecture Video</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center">
 <iframe id="kmsembed-0_bmt9ljr1" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_bmt9ljr1/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 8 | Learning and adaptive control course, Compliant Control for Robots"></iframe>
 </p>
@@ -34,26 +38,34 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"><strong>Slides</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/05/Lect9_ImpCont-Why-When-How.pdf" target="_blank" style="color: red;"> here </a> to download a pdf version of the ppt presentation.</p>
 
 
 <br>
 
 <h2 align="center"><strong>Exercises Instructions</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Lecture_9.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
 
 <br>
 
 <h2 align="center"><strong>Code for MATLAB Exercises</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture9-compliant-control" target="_blank" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
 
-<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="exercises.html" style="color: blue;">here.</a> </p>
+<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="Software.html" style="color: blue;">here.</a> </p>
 
 <br>
 
 <h2 align="center"><strong>First Theoretical Exercise Solution</strong></h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Solution_Lecture_9.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the solution of the first handwritten exercise.</p>   

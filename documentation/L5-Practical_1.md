@@ -20,24 +20,33 @@ header_xl: images/headers.gif
 <br>
 
 <h2 align="center"> <strong> Abstract </strong> </h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="justify" > This week, the 4h for the course are dedicated to a practice session to train and test dynamical systems with different datasets and algorithms. </p>
 
 <br>
 
 <h2 align="center">  <strong>  Practical Instructions </strong>  </h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2022/11/Instructions_Practical_1.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
 
 <br>
 
 <h2 align="center">  <strong>  Code for MATLAB Exercises  </strong> </h2>
-
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/practical_1" target="_blank" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
 
-<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="exercises.html" style="color: blue;">here.</a> </p>
+<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="Software.html" style="color: blue;">here.</a> </p>
 
 <br>
 
 <h2 align="center"><strong>Solutions</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+</div> 
 <p align="center">Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/practicals_solutions/practical_1" target="_blank" style="color: blue;">here</a> to find the solutions on a seprate branch.</p>
