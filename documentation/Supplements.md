@@ -32,7 +32,7 @@ Embedding space of the sub-dynamics with a local attractor. (d) Embedding space 
 sub-dynamics with a local attractor.</p>
 <br>
 
-<p align="center">  <i> Paper</i>  : <a href="https://www.jmlr.org/papers/v23/20-1405.html" style="color: blue;">Linearization and Identification of Multiple-Attractor Dynamical Systems through Laplacian Eigenmaps</a> </p>
+<p align="center"> <a href="https://www.jmlr.org/papers/v23/20-1405.html" style="color: blue;">B. Fischera and A. Billard (2022) "Linearization and Identification of Multiple-Attractor Dynamical Systems through Laplacian Eigenmaps". In Journal of Machine Learning Research.</a> </p>
 <br>
 <p align="justify"> We propose a Graph-based spectral clustering method that takes advantage of a velocity-augmented kernel to connect data points belonging to the same dynamics, while preserving the natural temporal evolution. We study the eigenvectors and eigenvalues of the Graph Laplacian and show that they form a set of orthogonal embedding spaces, one for each sub-dynamics. We prove that there always exist a set of 2-dimensional embedding spaces in which the sub-dynamics are linear and n-dimensional embedding spaces where they are quasi-linear. We compare the clustering performance of our algorithm to Kernel K-Means, Spectral Clustering and Gaussian Mixtures and show that, even when these algorithms are provided with the correct number of sub-dynamics, they fail to cluster them correctly. We learn a diffeomorphism from the Laplacian embedding space to the original space and show that the Laplacian embedding leads to good reconstruction accuracy and a faster training time through an exponential decaying loss compared to the state-of-the-art diffeomorphism-based approaches.  <br>
 <br>
@@ -41,6 +41,32 @@ sub-dynamics with a local attractor.</p>
 <i>Type of dynamics</i>  : non-linear, joint-space <br> -->
 
 </p>
+
+<h3 align="center"><strong>Dynamical system approach to navigation around obstacles</strong></h3>
+<br>
+<!-- ARADHANA -->
+<p align="center">  <img src="../images/aradhana.png" alt="bernardo" style="width: 800px; vertical-align: middle;"/> </p>
+<br>
+
+<p align="center"><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/f2740d17-1ceb-4c7c-881f-7da4a35f5daa/content" style="color: blue;"> A. Nayak and A. Billard (2024) "Dynamical system approach to navigation around obstacles". In European Control Conference. </a> </p>
+<br>
+<p align="justify"> In this article, we propose a dynamical system to
+avoid obstacles which are star shaped and simultaneously
+converge to a goal. The convergence is almost-global in a
+domain and the stationary points are identified explicitly.
+Our approach is based on the idea that an ideal vector
+field which avoids the obstacle traverses its boundary up
+to when a clear path to the goal is available. We show
+the existence of this clear path through a set connecting
+the boundary of the obstacle and the goal. The traversing
+vector field is determined for an arbitrary obstacle (de-
+scribed by a set of points) by separating it into cluster of
+stars. We propose an algorithm which is linear in number
+of points inside the obstacle. We verify the theoretical
+results presented with various hand drawn obstacle sets.
+Our methodology is also extended to obstacles which are
+not star-shaped, and, those which exist in high dimensions. </p> 
+<br>
 
 
 <br>
@@ -59,8 +85,10 @@ sub-dynamics with a local attractor.</p>
 <p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="550"></p>
 <br>
 
-<p align="center">  <i> Papers </i> : <a href="https://ieeexplore.ieee.org/abstract/document/8616899" style="color: blue;">Avoidance of Convex and Concave Obstacles With Convergence Ensured Through Contraction</a> <br>
-<a href="https://ieeexplore.ieee.org/abstract/document/9765824" style="color: blue;">Avoiding Dense and Dynamic Obstacles in Enclosed Spaces: Application to Moving in Crowds</a>
+<p align="center">  <i> Papers </i> : <a href="https://ieeexplore.ieee.org/abstract/document/8616899" style="color: blue;">L. Huber,
+A. Billard and J.-J. Slotine (2019) "Avoidance of Convex and Concave Obstacles With Convergence Ensured Through Contraction". In IEEE Robotics and Automation Letters 4 (2), 1462-1469.</a> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/9765824" style="color: blue;">L. Huber,
+ J.-J. Slotine and A. Billard (2022) "Avoiding Dense and Dynamic Obstacles in Enclosed Spaces: Application to Moving in Crowds". In IEEE Transactions on Robotics 38 (5), 3113-3132.</a>
 </p>
 
 <br>
@@ -97,7 +125,8 @@ Python packages by Lukas Huber for : </p>
 <p align="center"> <img src="../images/lukas_2022.gif" alt="lukas 2022" style="width: 600px; vertical-align: middle;"/> </p>
 <br>
 
-<p align="center">  <i> Paper</i>  : <a href="https://ieeexplore.ieee.org/abstract/document/9999335" style="color: blue;">Fast Obstacle Avoidance Based on Real-Time Sensing</a>
+<p align="center">  <i> Paper</i>  : <a href="https://ieeexplore.ieee.org/abstract/document/9999335" style="color: blue;">L. Huber,
+A. Billard and J.-J. Slotine (2022) "Fast Obstacle Avoidance Based on Real-Time Sensing". In IEEE Robotics and Automation Letters (RA-L).</a>
 </p>
 
 <br>
@@ -128,7 +157,7 @@ Python packages by Lukas Huber for : </p>
 <!-- <p align="center">  <img src="../images/koptev_avoidance.jpeg" alt="Koptev avoidance" style="vertical-align: middle;"/> </p> -->
 <br>
     
-<p align="center">  <i> Paper</i>  : <a href="https://ieeexplore.ieee.org/abstract/document/9976191" style="color: blue;">Neural Joint Space Implicit Signed Distance Functions for Reactive Robot Manipulator Control</a> </p>
+<p align="center">  <i> Paper</i>  : <a href="https://ieeexplore.ieee.org/abstract/document/9976191" style="color: blue;">M Koptev, N Figueroa, A Billard (2022) "Neural Joint Space Implicit Signed Distance Functions for Reactive Robot Manipulator Control". In IEEE Robotics and Automation Letters 8 (2), 480-487.</a> </p>
 <br>
 <p align="center">Python code by Mikhail Koptev for <a href="https://github.com/epfl-lasa/OptimalModulationDS" style="color: blue;" target="_blank"> reactive joint space obstacle avoidance</a>.</p>
 <br>
