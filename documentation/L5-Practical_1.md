@@ -23,10 +23,11 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="justify" > This week, the 4h for the course are dedicated to a practice session to train and test dynamical systems with different datasets and algorithms. </p>
+<p align="justify" > This week, the 4h for the course are dedicated to a practice session to train and test dynamical systems with different datasets and algorithms. The purpose of this pratical is to explore how data collection, and the ensuing quality of data will impact the learning of a given algorithms. In a secont part, students will test different learning algorithms. </p>
 
 <br>
-
+<p align="center">  <img src="../images/learning_DS.jpg" alt="image" style="width: 600px; vertical-align: middle;"/> </p>
+<br>
 <h2 align="center">  <strong>  Practical Instructions </strong>  </h2>
 <div style="line-height: 50%">    
 <br>    

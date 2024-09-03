@@ -85,3 +85,52 @@ header_xl: images/headers.gif
 <br>    
 </div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Solution_Lecture_4.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the solution of the first handwritten exercise.</p>
+
+
+<h2 align="center"><strong>Supplements</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+</div>
+<h3 align="center"><strong>Multi-attractor DS</strong></h3>
+<br>
+<!-- BERNARDO -->
+<p align="center">  <img src="../images/bernardo-1.png" alt="bernardo" style="width: 800px; vertical-align: middle;"/> </p>
+<p align="center">  <img src="../images/bernardo-2.png" alt="bernardo" style="width: 800px; vertical-align: middle;"/> </p>
+<p align="center">  <img src="../images/bernardo-3.png" alt="bernardo" style="width: 800px; vertical-align: middle;"/> </p>
+<br>
+<p> (a) Original Vector field  (b) Sub-Sampled trajectories from the DS. (c)
+Embedding space of the sub-dynamics with a local attractor. (d) Embedding space of the
+sub-dynamics with a local attractor.</p>
+<br>
+
+<p align="center"> <a href="https://www.jmlr.org/papers/v23/20-1405.html" style="color: blue;">B. Fischera and A. Billard (2022) "Linearization and Identification of Multiple-Attractor Dynamical Systems through Laplacian Eigenmaps". In Journal of Machine Learning Research.</a> </p>
+<br>
+<p align="justify"> We propose a Graph-based spectral clustering method that takes advantage of a velocity-augmented kernel to connect data points belonging to the same dynamics, while preserving the natural temporal evolution. We study the eigenvectors and eigenvalues of the Graph Laplacian and show that they form a set of orthogonal embedding spaces, one for each sub-dynamics. We prove that there always exist a set of 2-dimensional embedding spaces in which the sub-dynamics are linear and n-dimensional embedding spaces where they are quasi-linear. We learn a diffeomorphism from the Laplacian embedding space to the original space and show that the Laplacian embedding leads to good reconstruction accuracy and a faster training time through an exponential decaying loss compared to the state-of-the-art diffeomorphism-based approaches.  <br>
+<br>
+<!-- <i>Obstacle Type</i>  : Convex, Concave, multiple, moving <br>
+<i>Theoritical guarantees</i>  : <br>
+<i>Type of dynamics</i>  : non-linear, joint-space <br> -->
+
+</p>
+
+<h3 align="center"><strong>Dynamical system approach to navigation around obstacles</strong></h3>
+<br>
+<!-- ARADHANA -->
+<p align="center">  <img src="../images/aradhana.png" alt="bernardo" style="width: 800px; vertical-align: middle;"/> </p>
+<br>
+
+<p align="center"><a href="https://infoscience.epfl.ch/server/api/core/bitstreams/f2740d17-1ceb-4c7c-881f-7da4a35f5daa/content" style="color: blue;"> A. Nayak and A. Billard (2024) "Dynamical system approach to navigation around obstacles". In European Control Conference. </a> </p>
+<br>
+<p align="justify"> In this article, we propose a dynamical system to
+avoid obstacles which are star shaped and simultaneously
+converge to a goal. The convergence is almost-global in a
+domain and the stationary points are identified explicitly.
+Our approach is based on the idea that an ideal vector
+field which avoids the obstacle traverses its boundary up
+to when a clear path to the goal is available. We show
+the existence of this clear path through a set connecting
+the boundary of the obstacle and the goal. We verify the theoretical
+results presented with various hand drawn obstacle sets.
+Our methodology is also extended to obstacles which are
+not star-shaped, and, those which exist in high dimensions. </p> 
+<br>

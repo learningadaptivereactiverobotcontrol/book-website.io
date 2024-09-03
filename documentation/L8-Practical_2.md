@@ -23,8 +23,11 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="justify" > This week, the 4h for the course are dedicated to a practice session to explore obstacle avoidance using modulations of dynamical systems with different obstacles. </p>
+<p align="justify" > This week, the 4h for the course are dedicated to a practice session to explore obstacle avoidance using modulations of dynamical systems with different obstacles. Students will learn how to create obstacles of different shapes and how to modulate a dynamical system to avoid those obstacles. </p>
 
+<br>
+<p align="center">  <img src="../images/obstacle_ds.png" alt="image" style="width: 600px; vertical-align: middle;"/> </p>
+<br>
 <br>
 
 <h2 align="center">  <strong>  Practical Instructions </strong>  </h2>
