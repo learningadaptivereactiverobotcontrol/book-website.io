@@ -74,7 +74,7 @@ header_xl: images/headers.gif
 
 <br>
 <h2 align="center"><strong>Supplements</strong></h2>
-<div style=line-height: 50%>
+<div style="line-height: 50%">
 <br>
 </div>
 
