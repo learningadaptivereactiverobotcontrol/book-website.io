@@ -20,8 +20,8 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="center" >Code for the programming exercises for the course is available <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" style="color: blue;" target="_blank">here</a>. </p>
-<br>
+<p align="center" style="font-size: 20px; font-style: italic;"><a href="https://github.com/learningadaptivereactiverobotcontrol/book-code" style="color: blue;" target="_blank">Code for the programming exercises for the course is available here</a>. </p>
+ <br>
 <p align="justify">The code provided here is sorted by lecture, where each exercise session follows its corresponding lecture and is meant to last 2 hours, with 1h of theoretical exercises and 1h of programming exercises. The practicals are 4 hours long sessions of programming exercises which replace lectures 5, 8 and 11 respectively.<p>
 
 <br>

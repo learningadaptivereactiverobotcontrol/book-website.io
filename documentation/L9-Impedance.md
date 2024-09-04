@@ -58,9 +58,9 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="center"> Click <a href="https://github.com/learningadaptivereactiverobotcontrol/book-code/tree/main/lecture9-compliant-control" target="_blank" style="color: blue;"> here </a> to find the corresponding exercise for this lecture.</p> <br>
-
-<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. More detailled instuctrions for installation can be found <a href="Software.html" style="color: blue;">here.</a> </p>
+<p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. Detailled instructions for installation can be found on the <a href="Software.html" style="color: blue;">Software</a> page. </p>
+<br>
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/09/lecture9-compliant-control.zip" target="_blank" style="color: red;"> here </a> to download the corresponding exercise for this lecture as a zip file. <br> Note you will also need this <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/09/libraries.zip" target="_blank" style="color: red;"> libraries </a> folder placed with the correct directory structure.  </p> 
 
 <br>
 
