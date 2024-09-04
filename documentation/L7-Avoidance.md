@@ -82,8 +82,16 @@ header_xl: images/headers.gif
 <!-- <h3 align="left"><strong>Exact obstacle avoidance in complex and dynamic environments </strong></h3> -->
 <br>
 <!-- LUKAS -->
-
-<p align="center"> <img src="../images/lukas_2019.gif" alt="lukas 2019" style="vertical-align: middle;"/> </p>
+<div style="text-align: center;">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/HbNxEVP3pJA" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<!-- <p align="center"> <img src="../images/lukas_2019.gif" alt="lukas 2019" style="vertical-align: middle;"/> </p> -->
 <br>
 
 <p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="550"></p>
@@ -182,11 +190,26 @@ J.-J. Slotine and A. Billard (2024) "Passive Obstacle Aware Control to Follow De
 <h3 align="center"><strong>Real-time Joint-Space Obstacle Avoidance</strong></h3>
 <br>
 <!-- KOPTEV -->
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/u3lTwFZFicY" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<div style="line-height: 50%">
+<br>
+</div>
+<p align="center"> <a href="https://ieeexplore.ieee.org/abstract/document/9345975" style="color: blue;">M Koptev, N Figueroa, A Billard (2022) "Real-Time Self-Collision Avoidance in Joint Space for Humanoid Robots". In IEEE Robotics and Automation Letters 6 (2), 1240-1247.</a> </p>
 
+<br>
 <p align="center"> <img src="https://github.com/epfl-lasa/OptimalModulationDS/assets/22716499/c09470f3-6adf-421c-b704-d316392e73fd" alt="koptev_shelf" style="vertical-align: middle;"/> </p>
 <!-- <p align="center">  <img src="../images/koptev_avoidance.jpeg" alt="Koptev avoidance" style="vertical-align: middle;"/> </p> -->
+<div style="line-height: 50%">
 <br>
-    
+</div>
 <p align="center"> <a href="https://ieeexplore.ieee.org/abstract/document/9976191" style="color: blue;">M Koptev, N Figueroa, A Billard (2022) "Neural Joint Space Implicit Signed Distance Functions for Reactive Robot Manipulator Control". In IEEE Robotics and Automation Letters 8 (2), 480-487.</a> </p>
 <br>
 <p align="center">Python code by Mikhail Koptev for : <a href="https://github.com/epfl-lasa/OptimalModulationDS" style="color: blue;" target="_blank"> Reactive joint space obstacle avoidance</a>.</p>

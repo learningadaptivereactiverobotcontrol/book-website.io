@@ -70,4 +70,3 @@ their equilibirum points and respective stability, as well as the stability of n
 <br>    
 </div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Solution_Lecture_3.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the solution of the first handwritten exercise.</p>
-    

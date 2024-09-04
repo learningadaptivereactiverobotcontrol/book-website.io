@@ -86,13 +86,43 @@ header_xl: images/headers.gif
 </div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Solution_Lecture_4.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the solution of the first handwritten exercise.</p>
 
-
+<br>
 <h2 align="center"><strong>Supplements</strong></h2>
 <div style="line-height: 50%">    
 <br>    
 </div>
-<h3 align="center"><strong>Multi-attractor DS</strong></h3>
+<h3 align="center"><strong>SEDS implementation</strong></h3>
+<div style="line-height: 50%">    
+<br>    
+</div> 
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/MZVFq-65AAc" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br> 
+<h3 align="center"><strong>LPV-DS implementation</strong></h3>
+<div style="line-height: 50%">    
+<br>    
+</div>
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/HfV4jbJBWTQ" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 <br>
+<h3 align="center"><strong>Multi-attractor DS</strong></h3>
+<div style="line-height: 50%">    
+<br>    
+</div>
 <!-- BERNARDO -->
 <p align="center">  <img src="../images/bernardo-1.png" alt="bernardo" style="width: 800px; vertical-align: middle;"/> </p>
 <p align="center">  <img src="../images/bernardo-2.png" alt="bernardo" style="width: 800px; vertical-align: middle;"/> </p>
@@ -134,3 +164,6 @@ results presented with various hand drawn obstacle sets.
 Our methodology is also extended to obstacles which are
 not star-shaped, and, those which exist in high dimensions. </p> 
 <br>
+
+
+

@@ -69,3 +69,17 @@ header_xl: images/headers.gif
 <br>    
 </div> 
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/08/Solution_Lecture_10.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the solution of the first handwritten exercise.</p>   
+
+<br>
+<h2 align="center"><strong>Robotic Implementation</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/LxAWvU2locU" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>

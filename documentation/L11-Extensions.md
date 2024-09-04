@@ -65,3 +65,106 @@ header_xl: images/headers.gif
 
 
      -->
+
+
+<br>
+<h2 align="center"><strong>Supplements</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+</div>
+<h3 align="center"><strong>Learning multiple Control laws</strong></h3>
+<div style="line-height: 50%">    
+<br>    
+</div> 
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/oUra8CFleYY" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br> 
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/8zGPAgmR6NI" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
+<h3 align="center"><strong>Learning a sequence of control laws</strong></h3>
+<div style="line-height: 50%">    
+<br>    
+</div>
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/JhF1sheCow8" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/sR6oF2PpVno" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/_y2t81uu-bg" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
+<h3 align="center"><strong>Coupling and synchronizing controllers</strong></h3>
+<div style="line-height: 50%">    
+<br>    
+</div>
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/mKFwCykTk0E" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/FxvVJzb61js" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br>
+<h3 align="center"><strong>Reaching and adapting to moving objects</strong></h3>
+<div style="line-height: 50%">    
+<br>    
+</div>
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/UfucwRGa7k8" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+<br>

@@ -61,3 +61,17 @@ header_xl: images/headers.gif
 <p align="justify"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. Detailled instructions for installation can be found on the <a href="Software.html" style="color: blue;">Software</a> page. </p>
 <br>
 <p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/09/lecture2-learning-from-demonstration.zip" target="_blank" style="color: red;"> here </a> to download the corresponding exercise for this lecture as a zip file. <br> Note you will also need this <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/09/libraries.zip" target="_blank" style="color: red;"> libraries </a> folder placed with the correct directory structure.  </p> 
+
+<br>
+<h2 align="center"><strong>Robotic Implementation</strong></h2>
+<div style="line-height: 50%">    
+<br>    
+<div style="text-align: center;">
+  <iframe width="608" height="402"  
+    src="https://www.youtube.com/embed/2_M9gwCW6RY" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
