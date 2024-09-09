@@ -12,7 +12,7 @@ header_large: images/headers.gif
 header_xl: images/headers.gif
 --- 
 
-<section class="small-12 large-8 columns page-content">
+<section class="small-12 large-10 columns page-content">
     
 
 <h1 align="center"><strong>Lecture 3 - Introduction to Dynamical Systems</strong></h1>

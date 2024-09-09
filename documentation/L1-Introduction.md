@@ -12,7 +12,7 @@ header_large: images/headers.gif
 header_xl: images/headers.gif
 --- 
 
-<section class="small-12 large-8 columns page-content">
+<section class="small-12 large-10 columns page-content">
     
   
 <h1 align="center"><strong>Lecture 1 - Introduction</strong></h1>
@@ -31,9 +31,11 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="center">
+<!-- <p align="center"> -->
+<div class="video-container" style="text-align: center;">
 <iframe id="kmsembed-0_lu28slnt" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_lu28slnt/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 1 |  Learning and adaptive control course, Motivation and Overview of Course"></iframe>
-</p>
+</div>
+<!-- </p> -->
 
 <br>
 
@@ -74,8 +76,8 @@ header_xl: images/headers.gif
 <h2 align="center"><strong>Robotic Implementation</strong></h2>
 <div style="line-height: 50%">    
 <br>    
-<div style="text-align: center;">
-  <iframe width="608" height="402"  
+<div class="video-container" style="text-align: center;">
+  <iframe width="560" height="315"  
     src="https://www.youtube.com/embed/4fnPVRWWEU8" 
     title="YouTube video player" 
     frameborder="0" 
