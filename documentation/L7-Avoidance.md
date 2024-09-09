@@ -31,9 +31,9 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="center">
+<div class="video-container" style="text-align: center;">
 <iframe id="kmsembed-0_alylq824" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_alylq824/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 7 | Learning and adaptive control course, Obstacle Avoidance with DS"></iframe>
-</p>
+</div>
 
 <br>
 
@@ -82,7 +82,7 @@ header_xl: images/headers.gif
 <!-- <h3 align="left"><strong>Exact obstacle avoidance in complex and dynamic environments </strong></h3> -->
 <br>
 <!-- LUKAS -->
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/HbNxEVP3pJA" 
     title="YouTube video player" 
@@ -94,7 +94,7 @@ header_xl: images/headers.gif
 <!-- <p align="center"> <img src="../images/lukas_2019.gif" alt="lukas 2019" style="vertical-align: middle;"/> </p> -->
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="550"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="600px"></p>
 <br>
 
 <p align="center"> <a href="https://ieeexplore.ieee.org/abstract/document/8616899" style="color: blue;">L. Huber,
@@ -190,7 +190,7 @@ J.-J. Slotine and A. Billard (2024) "Passive Obstacle Aware Control to Follow De
 <h3 align="center"><strong>Real-time Joint-Space Obstacle Avoidance</strong></h3>
 <br>
 <!-- KOPTEV -->
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/u3lTwFZFicY" 
     title="YouTube video player" 

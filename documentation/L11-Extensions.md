@@ -31,13 +31,13 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="center">
+<div class="video-container" style="text-align: center;">
 <iframe id="kmsembed-0_1vs54r1w" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_1vs54r1w/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 12 - Part 1 |  Learning and adaptive control course, Extensions to DS - Part 1"></iframe>
-</p>
+</div>
 <br>
-<p align="center">
+<div class="video-container" style="text-align: center;">
 <iframe id="kmsembed-0_kjvh7fb1" width="608" height="402" src="https://mediaspace.epfl.ch/embed/secure/iframe/entryId/0_kjvh7fb1/uiConfId/23448972/pbc/30620/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Lecture 12 - Part 2 |  Learning and adaptive control course, Extensions to DS - Part 2"></iframe>
-</p>
+</div>
 
 <br>
 
@@ -76,7 +76,7 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/oUra8CFleYY" 
     title="YouTube video player" 
@@ -86,7 +86,7 @@ header_xl: images/headers.gif
   </iframe>
 </div>
 <br> 
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/8zGPAgmR6NI" 
     title="YouTube video player" 
@@ -100,7 +100,7 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div>
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/JhF1sheCow8" 
     title="YouTube video player" 
@@ -110,7 +110,7 @@ header_xl: images/headers.gif
   </iframe>
 </div>
 <br>
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/sR6oF2PpVno" 
     title="YouTube video player" 
@@ -120,7 +120,7 @@ header_xl: images/headers.gif
   </iframe>
 </div>
 <br>
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/_y2t81uu-bg" 
     title="YouTube video player" 
@@ -134,7 +134,7 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div>
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/mKFwCykTk0E" 
     title="YouTube video player" 
@@ -144,7 +144,7 @@ header_xl: images/headers.gif
   </iframe>
 </div>
 <br>
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/FxvVJzb61js" 
     title="YouTube video player" 
@@ -158,7 +158,7 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div>
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/UfucwRGa7k8" 
     title="YouTube video player" 

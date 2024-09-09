@@ -65,11 +65,12 @@ not star-shaped, and, those which exist in high dimensions. </p>
 <h2 align="center"><strong>Obstacle Avoidance</strong></h2>
 <br>
 
+
 <h3 align="center"><strong>Guaranteed obstacle avoidance of dense and dynamic obstacles in enclosed spaces</strong></h3>
 <!-- <h3 align="left"><strong>Exact obstacle avoidance in complex and dynamic environments </strong></h3> -->
 <br>
 <!-- LUKAS -->
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/HbNxEVP3pJA" 
     title="YouTube video player" 
@@ -81,7 +82,7 @@ not star-shaped, and, those which exist in high dimensions. </p>
 <!-- <p align="center"> <img src="../images/lukas_2019.gif" alt="lukas 2019" style="vertical-align: middle;"/> </p> -->
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="550"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/epfl-lasa/dynamic_obstacle_avoidance/main/figures/description/dynamic_crowd_horizontal.gif"  width="600px"></p>
 <br>
 
 <p align="center"> <a href="https://ieeexplore.ieee.org/abstract/document/8616899" style="color: blue;">L. Huber,
@@ -177,7 +178,7 @@ J.-J. Slotine and A. Billard (2024) "Passive Obstacle Aware Control to Follow De
 <h3 align="center"><strong>Real-time Joint-Space Obstacle Avoidance</strong></h3>
 <br>
 <!-- KOPTEV -->
-<div style="text-align: center;">
+<div class="video-container" style="text-align: center;">
   <iframe width="608" height="402"  
     src="https://www.youtube.com/embed/u3lTwFZFicY" 
     title="YouTube video player" 
@@ -208,6 +209,8 @@ J.-J. Slotine and A. Billard (2024) "Passive Obstacle Aware Control to Follow De
 <i>Type of dynamics</i>  : non-linear, joint-space <br>
 
 </p>
+
+
 
 
 <!-- 
