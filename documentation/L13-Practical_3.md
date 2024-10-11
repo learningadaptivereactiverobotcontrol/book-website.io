@@ -33,7 +33,8 @@ header_xl: images/headers.gif
 <br>
 <p align="center">  <img src="../images/ad_photo.png" alt="image" style="width: 800px; vertical-align: middle;"/> </p>
 <br>
-
+<p align="center" > This practical currently only runs on Ubuntu, a Windows-compatible version will be available soon. </p>
+<br>
 <h2 align="center">  <strong> Practical Instructions </strong>  </h2>
 <div style="line-height: 50%">    
 <br>    
