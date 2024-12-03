@@ -38,15 +38,23 @@
 	{% endfor %}
       </ul>
 
-      <ul class="columns medium-4 right primary-nav">
-	{% for socials in site.data.socials %}
-	  <li class="right">
-		<a href="{{ socials.href | site.github.url }}">
-			<span class="icon-{{ socials.title }} socials"></span>
-		</a>
-	</li>
+	<ul class="columns medium-4 right primary-nav">
+	{% for social in site.data.socials %}
+		<li class="right">
+		{% if social.internal %}
+			<!-- Use relative_url for internal links -->
+			<a href="{{ social.internal | relative_url }}">
+			<span class="icon-{{ social.title }} socials"></span>
+			</a>
+		{% elsif social.href %}
+			<!-- Use raw href for external links -->
+			<a href="{{ social.href }}">
+			<span class="icon-{{ social.title }} socials"></span>
+			</a>
+		{% endif %}
+		</li>
 	{% endfor %}
-      </ul>
+	</ul>
     </div>
   </nav>
 </nav>

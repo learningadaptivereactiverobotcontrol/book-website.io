@@ -48,7 +48,7 @@ header_xl: images/headers.gif
 <p align="justify"> We would also like to extend our sincere thanks to all those unnamed individuals whose support, guidance, and encouragement have been instrumental in this endeavor. Your contributions, though not explicitly mentioned, are deeply appreciated.</p>
 <br>
 
-<h1 align="center" > THANK YOU ALL ! </h1>
+<h1 align="center" ><strong> THANK YOU ALL ! </strong></h1>
 
 
 
