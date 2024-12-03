@@ -49,7 +49,7 @@ header_xl: images/headers.gif
 </div> 
 <p align="center"> The recommended way to do the MATLAB exercises is to download the entire repository once, then go to each lecture's folder. Detailled instructions for installation can be found on the <a href="Software.html" style="color: blue;">Software</a> page. </p>
 <br>
-<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/10/practical_3_sim.zip" target="_blank" style="color: red;"> here </a> to download the code for the practical as a zip file. <br> Note you will also need this <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/09/libraries.zip" target="_blank" style="color: red;"> libraries </a> folder placed with the correct directory structure.  </p> 
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/12/practical_3.zip" target="_blank" style="color: red;"> here </a> to download the code for the practical as a zip file. <br> Note you will also need this <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/09/libraries.zip" target="_blank" style="color: red;"> libraries </a> folder placed with the correct directory structure.  </p> 
 
 <br>
 
@@ -57,4 +57,4 @@ header_xl: images/headers.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p align="center">There are no solutions for this practical.</p>
+<p align="center"> Click <a href="https://www.epfl.ch/labs/lasa/wp-content/uploads/2024/12/Solutions_Practical_3_Sim.pdf" target="_blank" style="color: red;"> here </a> to download a pdf of the instructions for the exercises.</p>
